@@ -94,5 +94,9 @@
   {
     "presetId": "c4e5d69e-2a83-47da-a13b-e82a3df1ee19",
     "presetName": "Hard Clues - Ranged"
+  },
+  {
+    "presetId": "dc4dee91-7528-49a0-8344-b8a9803a3288",
+    "presetName": "AFK Helwyr - Melee"
   }
 ]
