@@ -1,0 +1,87 @@
+{
+  "presetName": "blah bl",
+  "presetNotes": "",
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    null,
+    {
+      "name": "Combatant's cape",
+      "label": "combatantscape",
+      "image": "https://img.pvme.io/images/NhX2RVu.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Combatant's_cape",
+      "selected": false,
+      "slot": 12
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      null,
+      null,
+      null
+    ],
+    "alternativeRelics": [
+      null,
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
