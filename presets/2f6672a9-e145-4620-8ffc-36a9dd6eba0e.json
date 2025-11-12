@@ -1,0 +1,79 @@
+{
+  "presetName": "ge",
+  "presetNotes": "",
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Abyssal armour spikes (alloy)",
+      "label": "abyssalspikes",
+      "image": "https://img.pvme.io/images/0WBnZ62.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Abyssal_armour_spikes_(alloy)",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      null,
+      null,
+      null
+    ],
+    "alternativeRelics": [
+      null,
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
