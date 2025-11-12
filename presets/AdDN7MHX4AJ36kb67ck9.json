@@ -1,0 +1,398 @@
+{
+  "presetName": "melee skeletons",
+  "presetNotes": "pray malev+ss",
+  "equipmentSlots": [
+    {
+      "label": "bandoshelm",
+      "image": "https://img.pvme.io/images/9NwuMuG.png",
+      "name": "Bandos helmet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_helmet"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "demonhorn",
+      "image": "https://img.pvme.io/images/gA1MFTE.png",
+      "name": "Demon horn necklace",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Demon_horn_necklace"
+    },
+    {
+      "label": "scythe",
+      "image": "https://img.pvme.io/images/DYr8pFK.png",
+      "name": "Noxious scythe",
+      "breakdownNotes": "tumeken's light, as4p2 + e4r3",
+      "wikiLink": "https://runescape.wiki/w/Noxious_scythe"
+    },
+    {
+      "label": "bandosbody",
+      "image": "https://img.pvme.io/images/rZAwGOE.png",
+      "name": "Bandos chestplate",
+      "breakdownNotes": "scav4 + biting4 undead slayer",
+      "wikiLink": "https://runescape.wiki/w/Bandos_chestplate"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "bandoslegs",
+      "image": "https://img.pvme.io/images/YTrvyv7.png",
+      "name": "Bandos tassets",
+      "breakdownNotes": "not augmented",
+      "wikiLink": "https://runescape.wiki/w/Bandos_tassets"
+    },
+    {
+      "label": "bandosgloves",
+      "image": "https://img.pvme.io/images/iEpTY9H.png",
+      "name": "Bandos gloves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_gloves"
+    },
+    {
+      "label": "bandosboots",
+      "image": "https://img.pvme.io/images/53Fx4cV.png",
+      "name": "Bandos boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bandos_boots"
+    },
+    {
+      "label": "hsr",
+      "image": "https://img.pvme.io/images/xmcbfhs.png",
+      "name": "Hazelmere's signet ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet"
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "breakdownNotes": ""
+    },
+    {
+      "label": "scriptureofful",
+      "image": "https://img.pvme.io/images/lPppoD4.png",
+      "name": "Scripture of Ful",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "potionreservoir",
+      "image": "https://img.pvme.io/images/uIF03Iz.png",
+      "name": "Potion reservoir",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "selected": false
+    },
+    {
+      "label": "potionreservoir2",
+      "image": "https://img.pvme.io/images/af9O4EM.png",
+      "name": "Potion reservoir (inactive)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "selected": false
+    },
+    {
+      "label": "aggroverload",
+      "image": "https://img.pvme.io/images/RsOriXw.png",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggroverload",
+      "image": "https://img.pvme.io/images/RsOriXw.png",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggroverload",
+      "image": "https://img.pvme.io/images/RsOriXw.png",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggroverload",
+      "image": "https://img.pvme.io/images/RsOriXw.png",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggroverload",
+      "image": "https://img.pvme.io/images/RsOriXw.png",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggroverload",
+      "image": "https://img.pvme.io/images/RsOriXw.png",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggroverload",
+      "image": "https://img.pvme.io/images/RsOriXw.png",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggroverload",
+      "image": "https://img.pvme.io/images/RsOriXw.png",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggroverload",
+      "image": "https://img.pvme.io/images/RsOriXw.png",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggroverload",
+      "image": "https://img.pvme.io/images/RsOriXw.png",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggroverload",
+      "image": "https://img.pvme.io/images/RsOriXw.png",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "aggroverload",
+      "image": "https://img.pvme.io/images/RsOriXw.png",
+      "name": "Aggroverload (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggroverload#(6)",
+      "selected": false
+    },
+    {
+      "label": "smokedevilpouch",
+      "image": "https://img.pvme.io/images/FmyhIY5.png",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "selected": false
+    },
+    {
+      "label": "smokedevilpouch",
+      "image": "https://img.pvme.io/images/FmyhIY5.png",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "selected": false
+    },
+    {
+      "label": "smokedevilpouch",
+      "image": "https://img.pvme.io/images/FmyhIY5.png",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "selected": false
+    },
+    {
+      "label": "smokedevilpouch",
+      "image": "https://img.pvme.io/images/FmyhIY5.png",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "selected": false
+    },
+    {
+      "label": "smokedevilpouch",
+      "image": "https://img.pvme.io/images/FmyhIY5.png",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "selected": false
+    },
+    {
+      "label": "smokedevilpouch",
+      "image": "https://img.pvme.io/images/FmyhIY5.png",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "selected": false
+    },
+    {
+      "label": "smokedevilpouch",
+      "image": "https://img.pvme.io/images/FmyhIY5.png",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "selected": false
+    },
+    {
+      "label": "smokedevilpouch",
+      "image": "https://img.pvme.io/images/FmyhIY5.png",
+      "name": "Smoke devil pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Smoke_devil_pouch",
+      "selected": false
+    },
+    {
+      "label": "smokedevilscroll5000",
+      "image": "https://img.pvme.io/images/6WSkKO7.png",
+      "name": "Smoke Devil scroll (Dust Cloud)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Smoke_Devil_scroll_(Dust_Cloud)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "lantadymeincensesticks100",
+      "image": "https://img.pvme.io/images/4n0C5gK.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "spiritsticks100",
+      "image": "https://img.pvme.io/images/YWaDJIE.png",
+      "name": "Spirit weed incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_weed_incense_sticks",
+      "selected": false
+    },
+    {
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "name": "Spring cleaner 9001",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "persistentrage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "smokedevil",
+        "image": "https://img.pvme.io/images/v6Q4ZEl.png",
+        "name": "Smoke Devil",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

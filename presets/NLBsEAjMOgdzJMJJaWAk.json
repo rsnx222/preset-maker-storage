@@ -1,0 +1,369 @@
+{
+  "presetName": "Woodcutting Croesus with Oxy",
+  "presetNotes": "<span>Suggestions in item notes for alternatives. Wear elite skilling outfit if owned.</span>",
+  "equipmentSlots": [
+    null,
+    {
+      "label": "fishingcape",
+      "image": "https://img.pvme.io/images/2QLmKri.png",
+      "name": "Fishing cape",
+      "breakdownNotes": "Woodcutting cape doesn't do anything here (Other than right click boost but I wouldn't bother.) Not required.",
+      "wikiLink": "https://runescape.wiki/w/Fishing_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "Not required, doesn't effect the kill.",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "imcandohatchet",
+      "image": "https://img.pvme.io/images/Xoo3KYI.png",
+      "name": "Imcando hatchet",
+      "breakdownNotes": "Best hatchet owned",
+      "wikiLink": "https://runescape.wiki/w/Imcando_hatchet"
+    },
+    null,
+    {
+      "label": "fyretorch",
+      "image": "https://img.pvme.io/images/n42Kunc.png",
+      "name": "Sana's fyrtorch",
+      "breakdownNotes": "Fyrtorch &gt; Orthen Furnace &gt; Protean Logs &gt; Logs",
+      "wikiLink": "https://runescape.wiki/w/Sana's_fyrtorch"
+    },
+    null,
+    null,
+    null,
+    {
+      "label": "ringofwhispers",
+      "image": "https://img.pvme.io/images/sxtHL16.png",
+      "name": "Ring of Whispers",
+      "breakdownNotes": "Ring of Whispers &gt; Pontifex Shadow Ring &gt; Luck of the Dwarves &gt; Nothing",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Whispers"
+    },
+    {
+      "label": "graspingpouchgreen",
+      "image": "https://img.pvme.io/images/9F4FESqkFm.png",
+      "name": "Grasping rune pouch (green)",
+      "breakdownNotes": "Soul | Body | Fire | Earth &gt; Runes in Inv &gt; If not using Crystal mask this is not needed.",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)"
+    },
+    {
+      "label": "legendaryquarrymaster",
+      "image": "https://img.pvme.io/images/KDmbuSF.png",
+      "name": "Legendary quarrymaster aura",
+      "breakdownNotes": "Legendary &gt; Supreme &gt; Master &gt; Greater &gt; Normal",
+      "wikiLink": "https://runescape.wiki/w/Legendary_quarrymaster_aura"
+    },
+    {
+      "label": "brooch",
+      "image": "https://img.pvme.io/images/5rpdKqL.png",
+      "name": "Brooch of the Gods",
+      "breakdownNotes": "Brooch or Bik Book (Bring clue carrier using Bik Book) Neither are required or help with the kill.",
+      "wikiLink": "https://runescape.wiki/w/Brooch_of_the_Gods"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "pickaxeoflifeanddeath",
+      "image": "https://img.pvme.io/images/OoGrEMisjo.png",
+      "name": "Pickaxe of Life and Death",
+      "breakdownNotes": "Best pickaxe owned",
+      "wikiLink": "https://runescape.wiki/w/Pickaxe_of_Life_and_Death",
+      "selected": false
+    },
+    {
+      "label": "magicbutterflynet",
+      "image": "https://img.pvme.io/images/Qf9AVbR.png",
+      "name": "Magic butterfly net",
+      "breakdownNotes": "Required",
+      "wikiLink": "https://runescape.wiki/w/Magic_butterfly_net",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "rodomatic",
+      "image": "https://img.pvme.io/images/maZE8qW.png",
+      "name": "Fishing rod-o-matic",
+      "breakdownNotes": "Crystal fishing rod does not work.",
+      "wikiLink": "https://runescape.wiki/w/Fishing_rod-o-matic",
+      "selected": false
+    },
+    {
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "name": "Powerburst of acceleration (4)",
+      "breakdownNotes": "Not Required.",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "Any form of super restore.",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "Any form of super restore.",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "name": "Super restore flask (6)",
+      "breakdownNotes": "Any form of super restore.",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "perfectplus",
+      "image": "https://img.pvme.io/images/r84FkMD.png",
+      "name": "Perfect plus potion (6)",
+      "breakdownNotes": "No required. Lasts 4 hours, sip at start then bank.",
+      "wikiLink": "https://runescape.wiki/w/Perfect_plus_potion#(6)",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "artificer",
+      "image": "https://img.pvme.io/images/gMZLjIv.png",
+      "name": "Artificer's measure",
+      "breakdownNotes": "Not Required, speeds up restoring statues.",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
+      "selected": false
+    },
+    {
+      "label": "404item",
+      "image": "https://img.pvme.io/images/xIoe7kR.png",
+      "name": "Item not found",
+      "breakdownNotes": "Make sure you have 17 free spaces (16 for resources 1 for rot)",
+      "wikiLink": "",
+      "selected": false
+    },
+    {
+      "label": "splinteringarrowtip1",
+      "image": "https://img.pvme.io/images/jHCeJqk.png",
+      "name": "Splintering arrow tips",
+      "breakdownNotes": "If using Fyrtorch, you'll get these randomly.",
+      "wikiLink": "https://runescape.wiki/w/Splintering_arrow_tips",
+      "selected": false
+    },
+    {
+      "label": "beaver",
+      "image": "https://img.pvme.io/images/XuoH8jT.png",
+      "name": "Beaver pouch",
+      "breakdownNotes": "Beaver &gt; BoB (If Iron for logs)",
+      "wikiLink": "https://runescape.wiki/w/Beaver_pouch",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "shadowsgrace",
+        "image": "https://img.pvme.io/images/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "energy": 50,
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline."
+      },
+      {
+        "label": "luckofthedwarves",
+        "image": "https://img.pvme.io/images/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "energy": 200,
+        "description": "You will always gain the effect of tier 4 luck."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "beaver",
+        "image": "https://img.pvme.io/images/n5ZeYNT.png",
+        "name": "Beaver",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

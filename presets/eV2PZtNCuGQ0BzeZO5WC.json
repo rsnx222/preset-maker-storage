@@ -1,0 +1,361 @@
+{
+  "presetName": "secondary master clue preset",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "label": "volcanictrapperhead",
+      "image": "https://img.pvme.io/images/cDfMJE7.png",
+      "name": "Volcanic trapper head",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_head"
+    },
+    {
+      "label": "globetrotterbackpack",
+      "image": "https://img.pvme.io/images/9u3f0ws.png",
+      "name": "Globetrotter backpack",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Globetrotter_backpack"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "yaktweestick",
+      "image": "https://img.pvme.io/images/iVFW4i1.png",
+      "name": "Yaktwee stick",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Yaktwee_stick"
+    },
+    {
+      "label": "volcanictrapperchest",
+      "image": "https://img.pvme.io/images/rOg7aHk.png",
+      "name": "Volcanic trapper chest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_chest"
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "volcanictrapperlegguards",
+      "image": "https://img.pvme.io/images/HocPtbC.png",
+      "name": "Volcanic trapper legguards",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_legguards"
+    },
+    {
+      "label": "volcanictrapperarms",
+      "image": "https://img.pvme.io/images/Yw0OGHG.png",
+      "name": "Volcanic trapper arms",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_arms"
+    },
+    {
+      "label": "volcanictrapperboots",
+      "image": "https://img.pvme.io/images/E9pG2sG.png",
+      "name": "Volcanic trapper boots",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Volcanic_trapper_boots"
+    },
+    {
+      "label": "facetofluck",
+      "image": "https://img.pvme.io/images/IHgyELp.png",
+      "name": "Dark Facet of Luck",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_Facet_of_Luck"
+    },
+    {
+      "label": "graspingpouchyellow",
+      "image": "https://img.pvme.io/images/iGpAq6ZDZM.png",
+      "name": "Grasping rune pouch (yellow)",
+      "breakdownNotes": "Cosmic <img title=\"cosmicrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659615924258.png?v=1\" /> | Astral <img title=\"astralrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658961481769.png?v=1\" /> | Law <img title=\"lawrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252661406760970.png?v=1\" /> | Water <img title=\"waterrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252660165115905.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(yellow)"
+    },
+    null,
+    {
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "name": "Scripture of Bik",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "toadflaxpotionunf",
+      "image": "https://img.pvme.io/images/2Z1zyYNAt6.png",
+      "name": "Toadflax potion (unfinished)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Toadflax_potion_(unfinished)"
+    },
+    {
+      "label": "crushednest",
+      "image": "https://img.pvme.io/images/JzxQM2m.png",
+      "name": "Crushed nest",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crushed_nest"
+    },
+    {
+      "label": "torstolpotionunf",
+      "image": "https://img.pvme.io/images/TVJp0NRZMq.png",
+      "name": "Torstol potion (unfinished)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Torstol_potion_(unfinished)"
+    },
+    {
+      "label": "jangerberries",
+      "image": "https://img.pvme.io/images/8ka7wAu.png",
+      "name": "Jangerberries",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Jangerberries"
+    },
+    {
+      "label": "magiclogs",
+      "image": "https://img.pvme.io/images/oOIEwH0.png",
+      "name": "Magic logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_logs"
+    },
+    {
+      "label": "elderlogs",
+      "image": "https://img.pvme.io/images/IilVMmp.png",
+      "name": "Elder logs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_logs"
+    },
+    {
+      "label": "rawwildpie",
+      "image": "https://img.pvme.io/images/o0uIoLH.png",
+      "name": "Raw wild pie",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Raw_wild_pie"
+    },
+    {
+      "label": "rawshark",
+      "image": "https://img.pvme.io/images/1aatevD.png",
+      "name": "Raw shark",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Raw_shark"
+    },
+    {
+      "label": "blackdragonleather",
+      "image": "https://img.pvme.io/images/o1fn8Bv.png",
+      "name": "Black dragon leather",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Black_dragon_leather"
+    },
+    {
+      "label": "blackdragonleather",
+      "image": "https://img.pvme.io/images/o1fn8Bv.png",
+      "name": "Black dragon leather",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Black_dragon_leather"
+    },
+    {
+      "label": "blackdragonleather",
+      "image": "https://img.pvme.io/images/o1fn8Bv.png",
+      "name": "Black dragon leather",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Black_dragon_leather"
+    },
+    {
+      "label": "curlyroot",
+      "image": "https://img.pvme.io/images/FN0XHFS.png",
+      "name": "Curly root",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Curly_root"
+    },
+    {
+      "label": "decoratedcookingurn(nr)",
+      "image": "https://img.pvme.io/images/cx7cvZh.png",
+      "name": "Decorated cooking urn (nr)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Decorated_cooking_urn_(nr)"
+    },
+    {
+      "label": "firerune",
+      "image": "https://img.pvme.io/images/Moq1ANC.png",
+      "name": "Fire rune",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fire_rune"
+    },
+    {
+      "label": "activeclue",
+      "image": "https://img.pvme.io/images/beq0RtH.png",
+      "name": "Active clue",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Clue_scroll"
+    },
+    {
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "name": "Spirit attraction flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)"
+    },
+    {
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "name": "Weapon poison+++ flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)"
+    },
+    {
+      "label": "lantadymeincensesticks100",
+      "image": "https://img.pvme.io/images/4n0C5gK.png",
+      "name": "Lantadyme incense sticks",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks"
+    },
+    {
+      "label": "wildernesssword",
+      "image": "https://img.pvme.io/images/cIHG8g8.png",
+      "name": "Wilderness sword 4",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Wilderness_sword_4"
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)"
+    },
+    {
+      "label": "perfectjujufishingpotion",
+      "image": "https://img.pvme.io/images/70U9pJh.png",
+      "name": "Perfect juju fishing potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Perfect_juju_fishing_potion#(4)"
+    },
+    {
+      "label": "fishingpotion",
+      "image": "https://img.pvme.io/images/VZsgXdV.png",
+      "name": "Fishing potion (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fishing_potion#(4)"
+    },
+    {
+      "label": "meerkatscrolls500",
+      "image": "https://img.pvme.io/images/Dc1RbtE.png",
+      "name": "Meerkat scroll (Fetch Casket)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Meerkat_scroll_(Fetch_Casket)"
+    },
+    {
+      "label": "meerkatspouch",
+      "image": "https://img.pvme.io/images/zIwiuqt.png",
+      "name": "Meerkats pouch",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Meerkats_pouch"
+    },
+    {
+      "label": "powerburstofmasterstroke(1)",
+      "image": "https://img.pvme.io/images/XSZEqx9.png",
+      "name": "Powerburst of masterstroke (1)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_masterstroke_(1)"
+    },
+    {
+      "label": "maskoftheganodermic",
+      "image": "https://img.pvme.io/images/PYRyglW.png",
+      "name": "Mask of the Ganodermic",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Mask_of_the_Ganodermic"
+    },
+    {
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier"
+    },
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "image": "https://i.imgur.com/sxdlwRm.png",
+        "name": "Shadows Grace",
+        "breakdownNotes": "",
+        "description": "Reduces the cooldown of Surge, Escape, Bladed Dive, Dive and Barge by 50%, but these abilities no longer generate adrenaline.",
+        "label": "shadowsgrace",
+        "energy": 50
+      },
+      {
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "name": "Persistent Rage",
+        "breakdownNotes": "",
+        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
+        "label": "persistentrage",
+        "energy": 150
+      },
+      {
+        "image": "https://i.imgur.com/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "description": "You will always gain the effect of tier 4 luck.",
+        "label": "luckofthedwarves",
+        "energy": 200
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "image": "https://i.imgur.com/cOwxYnD.png",
+        "name": "Meerkats",
+        "breakdownNotes": "",
+        "label": "meerkats"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      },
+      {
+        "image": "",
+        "name": "",
+        "breakdownNotes": "",
+        "label": ""
+      }
+    ]
+  }
+}

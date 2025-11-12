@@ -1,0 +1,401 @@
+{
+  "presetName": "GDD - Base",
+  "presetNotes": "If using crackling, keep one inventory space open to remove that armor piece for Animal Cruelty.",
+  "equipmentSlots": [
+    {
+      "label": "t95necrohelm",
+      "image": "https://img.pvme.io/images/2msk92n.png",
+      "name": "Crown of the First Necromancer",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer"
+    },
+    {
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "name": "Igneous Kal-Zuk",
+      "breakdownNotes": "<span>Mandatory</span>",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+    },
+    {
+      "label": "eofor",
+      "image": "https://img.pvme.io/images/xPypDhQ.png",
+      "name": "Essence of Finality amulet (ornament)",
+      "breakdownNotes": "Deathguard ",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(or)"
+    },
+    {
+      "label": "omniguard",
+      "image": "https://img.pvme.io/images/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "<span>Mandatory</span>",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard"
+    },
+    {
+      "label": "deathwardenrobetopt90",
+      "image": "https://img.pvme.io/images/JkyJN48.png",
+      "name": "Deathwarden robe top (tier 90)",
+      "breakdownNotes": "Biting 4 + x; Impatient 4 + Devoted 4",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)"
+    },
+    {
+      "label": "soulboundlantern",
+      "image": "https://img.pvme.io/images/VJsZ4HL.png",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "<span>Mandatory</span>",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern"
+    },
+    {
+      "label": "t95necrolegs",
+      "image": "https://img.pvme.io/images/s0Acz4g.png",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "Invigorating 4 + x; Crackling 4 + Relentless 5",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer"
+    },
+    {
+      "label": "t95necrogloves",
+      "image": "https://img.pvme.io/images/8zjLczG.png",
+      "name": "Hand wrap of the First Necromancer",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer"
+    },
+    {
+      "label": "t95necroboots",
+      "image": "https://img.pvme.io/images/FawdniP.png",
+      "name": "Foot wraps of the First Necromancer",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer"
+    },
+    {
+      "label": "zorgothssoulring",
+      "image": "https://img.pvme.io/images/EGVLuFE.png",
+      "name": "Zorgoth's soul ring",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zorgoth%27s_soul_ring"
+    },
+    {
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "name": "Zemouregal's Nexus",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus"
+    },
+    {
+      "label": "equilibriumaura",
+      "image": "https://img.pvme.io/images/a3Up2sd.png",
+      "name": "Equilibrium aura",
+      "breakdownNotes": "Optional: Aegis",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura"
+    },
+    {
+      "label": "scriptureofamascut",
+      "image": "https://img.pvme.io/images/4KBTJqYn6o.png",
+      "name": "Scripture of Amascut",
+      "breakdownNotes": "Optional: Erethdor's Grimoire (if on Aegis) ",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Amascut"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/WkFQ7nSUa3.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Runes for Disruption Shield, Vengeance, Spellbook Swap, Smoke Cloud, Intercept, Heal Other, Shield Dome. Special JW may want runes for Entangle. ",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "selected": false
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false
+    },
+    {
+      "label": "spices",
+      "image": "https://img.pvme.io/images/GNzR4sU.png",
+      "name": "Expensive spices",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "selected": false
+    },
+    {
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "name": "Elder overload salve (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false
+    },
+    {
+      "label": "blessed",
+      "image": "https://img.pvme.io/images/FVmxMkH.png",
+      "name": "Blessed flask",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "selected": false
+    },
+    {
+      "label": "renewal6",
+      "image": "https://img.pvme.io/images/Swtl8pP.png",
+      "name": "Adrenaline renewal flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "name": "Vulnerabilty bombs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/WkFQ7nSUa3.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Runes for Disruption Shield, Vengeance, Spellbook Swap, Smoke Cloud, Intercept, Heal Other, Shield Dome. Special JW may want runes for Entangle. ",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "name": "Saradomin brew flask (6)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/WkFQ7nSUa3.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "Runes for Disruption Shield, Vengeance, Spellbook Swap, Smoke Cloud, Intercept, Heal Other, Shield Dome. Special JW may want runes for Entangle. ",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "selected": false
+    },
+    {
+      "label": "soup",
+      "image": "https://img.pvme.io/images/1odCIWn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "selected": false
+    },
+    {
+      "label": "soup",
+      "image": "https://img.pvme.io/images/1odCIWn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "selected": false
+    },
+    {
+      "label": "soup",
+      "image": "https://img.pvme.io/images/1odCIWn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "selected": false
+    },
+    {
+      "label": "soup",
+      "image": "https://img.pvme.io/images/1odCIWn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "selected": false
+    },
+    {
+      "label": "soup",
+      "image": "https://img.pvme.io/images/1odCIWn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "selected": false
+    },
+    {
+      "label": "soup",
+      "image": "https://img.pvme.io/images/1odCIWn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "selected": false
+    },
+    {
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "name": "Powder of penance",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false
+    },
+    {
+      "label": "vitality4",
+      "image": "https://img.pvme.io/images/n9C7iSA.png",
+      "name": "Powerburst of vitality (4)",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
+      "selected": false
+    },
+    {
+      "label": "spectral",
+      "image": "https://img.pvme.io/images/Z4BttRK.png",
+      "name": "Spectral spirit shield",
+      "breakdownNotes": "Turtling 4",
+      "wikiLink": "https://runescape.wiki/w/Spectral_spirit_shield",
+      "selected": false
+    },
+    {
+      "label": "soup",
+      "image": "https://img.pvme.io/images/1odCIWn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "selected": false
+    },
+    {
+      "label": "soup",
+      "image": "https://img.pvme.io/images/1odCIWn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "selected": false
+    },
+    {
+      "label": "soup",
+      "image": "https://img.pvme.io/images/1odCIWn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "selected": false
+    },
+    {
+      "label": "soup",
+      "image": "https://img.pvme.io/images/1odCIWn.png",
+      "name": "Sailfish soup",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish_soup",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "name": "Conservation of Energy",
+        "breakdownNotes": "",
+        "energy": 350,
+        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+      },
+      {
+        "label": "furyofthesmall",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "name": "Fury of the Small",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "All adrenaline generating basic abilities generate +1% adrenaline."
+      },
+      {
+        "label": "deathward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "name": "Death Ward",
+        "breakdownNotes": "",
+        "energy": 150,
+        "description": "5% damage reduction when your life points are below 50%; 10% damage reduction when they are below 25%."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "packyak",
+        "image": "https://img.pvme.io/images/pIteWAi.png",
+        "name": "Pack Yak",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}

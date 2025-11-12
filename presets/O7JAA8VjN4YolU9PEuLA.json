@@ -1,0 +1,397 @@
+{
+  "presetName": "Ghostly sole fishing",
+  "presetNotes": "<div>Set an Alt1 lobby timer for 870s (14.5min) and sip the spirit attraction potion every time it goes off.</div><div><br /></div><div>Aura rotation:</div><div>Call of the sea + vis</div><div>(Premier reset) Call of the sea + vis</div><div>Desert pantheon</div><div>Wisdom</div><div>Call of the sea</div>",
+  "equipmentSlots": [
+    {
+      "label": "furysharkhead",
+      "image": "https://img.pvme.io/images/JHc4QWU.png",
+      "name": "Fury shark head",
+      "breakdownNotes": "Set to consume",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_head"
+    },
+    {
+      "label": "fishingcape",
+      "image": "https://img.pvme.io/images/2QLmKri.png",
+      "name": "Fishing cape",
+      "breakdownNotes": "5% chance for an additional catch",
+      "wikiLink": "https://runescape.wiki/w/Fishing_cape"
+    },
+    {
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "name": "Grace of the elves",
+      "breakdownNotes": "For Seren spirits",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves"
+    },
+    {
+      "label": "crystalrod",
+      "image": "https://runescape.wiki/images/Augmented_crystal_fishing_rod.png",
+      "name": "Crystal fishing rod",
+      "breakdownNotes": "<img title=\"honed6\" class=\"disc-emoji\" src=\"https://runescape.wiki/images/thumb/Honed.png/25px-Honed.png\"/> | <img title=\"furnace4\" class=\"disc-emoji\" src=\"https://runescape.wiki/images/thumb/Furnace_%28perk%29.png/25px-Furnace_%28perk%29.png\"/> <img title=\"prosper\" class=\"disc-emoji\" src=\"https://runescape.wiki/images/thumb/Prosper.png/25px-Prosper.png\"/>",
+      "wikiLink": "https://runescape.wiki/w/Augmented_crystal_fishing_rod"
+    },
+    {
+      "label": "furysharkbody",
+      "image": "https://img.pvme.io/images/uz0wELA.png",
+      "name": "Fury shark body",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_body"
+    },
+    {
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "name": "Enhanced excalibur",
+      "breakdownNotes": "<img title=\"wise4\" class=\"disc-emoji\" src=\"https://runescape.wiki/images/thumb/Wise.png/25px-Wise.png\"/>",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur"
+    },
+    {
+      "label": "furysharklegs",
+      "image": "https://img.pvme.io/images/r9Gzn0X.png",
+      "name": "Fury shark legs",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_legs"
+    },
+    {
+      "label": "furysharkgloves",
+      "image": "https://img.pvme.io/images/iCfoioZ.png",
+      "name": "Fury shark hands",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_hands"
+    },
+    {
+      "label": "furysharkboots",
+      "image": "https://img.pvme.io/images/Kk68bUS.png",
+      "name": "Fury shark feet",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fury_shark_feet"
+    },
+    {
+      "label": "lotd",
+      "image": "https://img.pvme.io/images/nXXZxpH.png",
+      "name": "Luck of the dwarves",
+      "breakdownNotes": "<div>For Seren spirit loot (and catalysts if using Bik)</div><div>Alternatively use a <img title=\"ringOfWhispers\" class=\"disc-emoji\" src=\"https://runescape.wiki/images/Ring_of_Whispers.png\" />Ring of Whispers for a +3 invisible Fishing boost.</div>",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves"
+    },
+    {
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/WkFQ7nSUa3.png",
+      "name": "Grasping rune pouch",
+      "breakdownNotes": "<img title=\"body\" class=\"disc-emoji\" src=\"https://runescape.wiki/images/Body_rune.png\"/> | <img title=\"cosmic\" class=\"disc-emoji\" src=\"https://runescape.wiki/images/Cosmic_rune.png\"/> | <img title=\"astral\" class=\"disc-emoji\" src=\"https://runescape.wiki/images/Astral_rune.png\"/> for <img title=\"spiritualHealing\" class=\"disc-emoji\" src=\"https://runescape.wiki/images/Spiritual_Healing_icon.png\"/> Spiritual Healing",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch"
+    },
+    {
+      "label": "legendarycallofthesea",
+      "image": "https://img.pvme.io/images/fsSx8Aa.png",
+      "name": "Legendary call of the sea aura",
+      "breakdownNotes": "<div>3-15% Fishing success rate depending on aura tier.</div><div>Extend auras with vis wax before using.</div>",
+      "wikiLink": "https://runescape.wiki/w/Legendary_call_of_the_sea_aura"
+    },
+    {
+      "label": "brooch",
+      "image": "https://img.pvme.io/images/5rpdKqL.png",
+      "name": "Brooch of the Gods",
+      "breakdownNotes": "<div>For blessings and possibly storing urns if using them.</div><div>Alternatively use a <img title=\"scriptureOfBik\" class=\"disc-emoji\" src=\"https://runescape.wiki/images/Scripture_of_Bik.png\" />Scripture of Bik for more clues.</div>",
+      "wikiLink": "https://runescape.wiki/w/Brooch_of_the_Gods"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "name": "Charos' clue carrier",
+      "breakdownNotes": "For Prosper clues",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false
+    },
+    {
+      "label": "passingbracelet",
+      "image": "https://img.pvme.io/images/aZvjBlt.png",
+      "name": "Passing bracelet",
+      "breakdownNotes": "Teleport 3 to ghostly soles",
+      "wikiLink": "https://runescape.wiki/w/Passing_bracelet",
+      "selected": false
+    },
+    {
+      "label": "prawnballs",
+      "image": "https://runescape.wiki/images/Prawn_balls.png",
+      "name": "Prawn balls",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Prawn_balls",
+      "selected": false
+    },
+    {
+      "label": "prawncracker",
+      "image": "https://runescape.wiki/images/Prawn_cracker.png",
+      "name": "Prawn cracker",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Prawn_cracker",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "captainslog",
+      "image": "https://runescape.wiki/images/Captain%27s_Log.png",
+      "name": "Captain's Log",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Captain%27s_Log",
+      "selected": false
+    },
+    {
+      "label": "spiritattraction4",
+      "image": "https://runescape.wiki/images/Spirit_attraction_potion_%284%29.png?f89d2",
+      "name": "Spirit attraction potion (4)",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_potion#(4)",
+      "selected": false
+    },
+    {
+      "label": "spiritattraction4",
+      "image": "https://runescape.wiki/images/Spirit_attraction_potion_%284%29.png?f89d2",
+      "name": "Spirit attraction potion (4)",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false
+    },
+    {
+      "label": "granitelobster",
+      "image": "https://img.pvme.io/images/J8VgIxA.png",
+      "name": "Granite lobster pouch",
+      "breakdownNotes": "+4 invisible Fishing boost",
+      "wikiLink": "https://runescape.wiki/w/Granite_lobster_pouch",
+      "selected": false
+    },
+    {
+      "label": "granitelobster",
+      "image": "https://img.pvme.io/images/J8VgIxA.png",
+      "name": "Granite lobster pouch",
+      "breakdownNotes": "+4 invisible Fishing boost",
+      "wikiLink": "https://runescape.wiki/w/Granite_lobster_pouch",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "xpcapacitor5000charging",
+      "image": "https://img.pvme.io/images/e0vL3ur.png",
+      "name": "XP Capacitor 5000 (Charging)",
+      "breakdownNotes": "Extra profit once rod is level 20",
+      "wikiLink": "https://runescape.wiki/w/XP_Capacitor_5000#Charging",
+      "selected": false
+    },
+    {
+      "label": "perfectplus",
+      "image": "https://img.pvme.io/images/r84FkMD.png",
+      "name": "Perfect plus potion (6)",
+      "breakdownNotes": "5% Fishing success rate<br />Use <img title=\"perfectFishing\" class=\"disc-emoji\" src=\"https://runescape.wiki/images/Perfect_juju_fishing_potion_%284%29.png\" />perfect juju fishing potions instead if not unlocked.",
+      "wikiLink": "https://runescape.wiki/w/Perfect_plus_potion#(6)",
+      "selected": false
+    },
+    {
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "name": "Super restore (4)",
+      "breakdownNotes": "For Summoning points to summon another familiar.",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false
+    },
+    {
+      "label": "premierartefact",
+      "image": "https://runescape.wiki/images/Premier_artefact.png",
+      "name": "Premier artefact",
+      "breakdownNotes": "Use once a day for a 10% XP boost for 60min.<br />Can also be used to reset the call of the sea aura once a day.",
+      "wikiLink": "https://runescape.wiki/w/Premier_artefact",
+      "selected": false
+    },
+    {
+      "label": "desertpanth",
+      "image": "https://runescape.wiki/images/Desert_pantheon_aura.png",
+      "name": "Desert pantheon aura",
+      "breakdownNotes": "Use once a day for a 10% XP boost for 60min.",
+      "wikiLink": "https://runescape.wiki/w/Desert_pantheon_aura",
+      "selected": false
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "name": "",
+      "image": "",
+      "label": "",
+      "selected": false,
+      "breakdownNotes": ""
+    },
+    {
+      "label": "wildernesssword",
+      "image": "https://img.pvme.io/images/cIHG8g8.png",
+      "name": "Wilderness sword 4",
+      "breakdownNotes": "For Wilderness Flash Event teleport",
+      "wikiLink": "https://runescape.wiki/w/Wilderness_sword_4",
+      "selected": false
+    },
+    {
+      "label": "t95necrohelm",
+      "image": "https://img.pvme.io/images/2msk92n.png",
+      "name": "Crown of the First Necromancer",
+      "breakdownNotes": "For Wilderness Flash Events",
+      "wikiLink": "https://runescape.wiki/w/Crown_of_the_First_Necromancer",
+      "selected": false
+    },
+    {
+      "label": "t95necrotop",
+      "image": "https://img.pvme.io/images/VwEHIYQ.png",
+      "name": "Robe top of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_the_First_Necromancer",
+      "selected": false
+    },
+    {
+      "label": "t95necrolegs",
+      "image": "https://img.pvme.io/images/s0Acz4g.png",
+      "name": "Robe bottom of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_the_First_Necromancer",
+      "selected": false
+    },
+    {
+      "label": "t95necrogloves",
+      "image": "https://img.pvme.io/images/8zjLczG.png",
+      "name": "Hand wrap of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hand_wrap_of_the_First_Necromancer",
+      "selected": false
+    },
+    {
+      "label": "t95necroboots",
+      "image": "https://img.pvme.io/images/FawdniP.png",
+      "name": "Foot wraps of the First Necromancer",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Foot_wraps_of_the_First_Necromancer",
+      "selected": false
+    },
+    {
+      "label": "omniguard",
+      "image": "https://img.pvme.io/images/SzFvoQB.png",
+      "name": "Omni guard",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Omni_guard",
+      "selected": false
+    },
+    {
+      "label": "soulboundlantern",
+      "image": "https://img.pvme.io/images/VJsZ4HL.png",
+      "name": "Soulbound lantern",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Soulbound_lantern",
+      "selected": false
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "baitandswitch",
+        "image": "https://runescape.wiki/images/Bait_and_Switch.png",
+        "name": "Bait and Switch",
+        "breakdownNotes": "50% of regular Cooking XP is gained automatically. By putting BXP into Cooking both skills will gain about the same amount of XP at ghostly soles.",
+        "energy": 100,
+        "description": "Fishing produce are cooked when caught."
+      },
+      {
+        "label": "inspireffort",
+        "image": "https://runescape.wiki/images/Inspire_Effort.png",
+        "name": "Inspire Effort",
+        "breakdownNotes": "2% Fishing XP",
+        "energy": 250,
+        "description": "You will gain 2% more XP when training gathering skills."
+      },
+      {
+        "label": "Inspire Genius",
+        "image": "https://runescape.wiki/images/Inspire_Genius.png",
+        "name": "Inspire Genius",
+        "breakdownNotes": "2% Cooking XP",
+        "energy": 250,
+        "description": "You will gain 2% more XP when training artisan skills."
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "luckofthedwarves",
+        "image": "https://img.pvme.io/images/Ivcgjer.png",
+        "name": "Luck of the Dwarves",
+        "breakdownNotes": "",
+        "energy": 200,
+        "description": "You will always gain the effect of tier 4 luck."
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "granitelobster",
+        "image": "https://img.pvme.io/images/uHd98i7.png",
+        "name": "Granite Lobster",
+        "breakdownNotes": "+4 invisible Fishing boost"
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "name": "ibis",
+        "image": "https://runescape.wiki/images/Ibis_pouch.png",
+        "label": "Ibis",
+        "breakdownNotes": "+3 invisible Fishing boost"
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      },
+      {
+        "name": "",
+        "image": "",
+        "label": "",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}
