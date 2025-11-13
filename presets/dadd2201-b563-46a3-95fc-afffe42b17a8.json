@@ -1,0 +1,137 @@
+{
+  "presetName": "543543534534herhre",
+  "presetNotes": "",
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Armadyl chainskirt",
+      "label": "armaskirt",
+      "image": "https://img.pvme.io/images/wpBDLzn.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_chainskirt",
+      "selected": false,
+      "slot": 3
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "deathnote",
+        "name": "Death Note",
+        "image": "https://img.pvme.io/images/2KToagJ.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null,
+      {
+        "label": "conservationofenergy",
+        "name": "Conservation of Energy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      }
+    ],
+    "alternativeRelics": [
+      {
+        "label": "flowstate",
+        "name": "Flow State",
+        "image": "https://img.pvme.io/images/7yQkguFWZ0.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "deathward",
+        "name": "Death Ward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "blessingofhet",
+        "name": "Blessing of Het",
+        "image": "https://img.pvme.io/images/eDmt2lT.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "conservationofenergy",
+        "name": "Conservation of Energy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "bloodnihil",
+        "name": "Blood Nihil",
+        "image": "https://img.pvme.io/images/a2CITlX.png",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "gargoyle",
+        "name": "Gargoyle",
+        "image": "https://img.pvme.io/images/zLcXXcI.png",
+        "breakdownNotes": ""
+      },
+      {
+        "label": "granitelobster",
+        "name": "Granite Lobster",
+        "image": "https://img.pvme.io/images/uHd98i7.png",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}
