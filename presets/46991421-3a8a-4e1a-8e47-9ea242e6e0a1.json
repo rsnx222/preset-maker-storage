@@ -1,0 +1,85 @@
+{
+  "presetName": "543543534534herhre",
+  "presetNotes": "",
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Armadyl chainskirt",
+      "label": "armaskirt",
+      "image": "https://img.pvme.io/images/wpBDLzn.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_chainskirt",
+      "selected": false,
+      "slot": 3
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "deathnote",
+        "name": "Death Note",
+        "image": "https://img.pvme.io/images/2KToagJ.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "deathward",
+        "name": "Death Ward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": []
+  }
+}
