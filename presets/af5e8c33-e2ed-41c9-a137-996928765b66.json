@@ -48,54 +48,70 @@
       "selected": false,
       "slot": 0
     },
-    null,
-    null,
     {
-      "name": "Achto Primeval boots",
-      "label": "achtoprimboots",
-      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "name": "Crystal key",
+      "label": "crystalkey1noted",
+      "image": "https://img.pvme.io/images/ele52vp.png",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "wikiLink": "https://runescape.wiki/w/Crystal_key",
       "selected": false,
-      "slot": 7
-    },
-    {
-      "name": "Achto Primeval boots",
-      "label": "achtoprimboots",
-      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
-      "selected": false,
-      "slot": 7
-    },
-    {
-      "name": "Achto Primeval boots",
-      "label": "achtoprimboots",
-      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
-      "selected": false,
-      "slot": 7
-    },
-    {
-      "name": "Achto Primeval boots",
-      "label": "achtoprimboots",
-      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
-      "selected": false,
-      "slot": 7
-    },
-    {
-      "name": "Achto Primeval boots",
-      "label": "achtoprimboots",
-      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
-      "selected": false,
-      "slot": 7
+      "slot": 0
     },
     null,
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Crystal key",
+      "label": "crystalkey1noted",
+      "image": "https://img.pvme.io/images/ele52vp.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crystal_key",
+      "selected": false,
+      "slot": 0
+    },
     null,
     {
       "name": "Achto Primeval boots",
@@ -142,7 +158,15 @@
       "selected": false,
       "slot": 7
     },
-    null,
+    {
+      "name": "Crystal key",
+      "label": "crystalkey1noted",
+      "image": "https://img.pvme.io/images/ele52vp.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crystal_key",
+      "selected": false,
+      "slot": 0
+    },
     null,
     {
       "name": "Accursed ashes (noted)",
@@ -189,7 +213,15 @@
       "selected": false,
       "slot": 0
     },
-    null
+    {
+      "name": "Crystal key",
+      "label": "crystalkey1noted",
+      "image": "https://img.pvme.io/images/ele52vp.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Crystal_key",
+      "selected": false,
+      "slot": 0
+    }
   ],
   "equipmentSlots": [
     null,
