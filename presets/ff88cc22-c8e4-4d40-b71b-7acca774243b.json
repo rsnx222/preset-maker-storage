@@ -8,7 +8,15 @@
     null,
     null,
     null,
-    null,
+    {
+      "name": "Scrimshaw of Elements",
+      "label": "elements",
+      "image": "https://img.pvme.io/images/o7yhKdD.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Elements",
+      "selected": false,
+      "slot": 13
+    },
     null,
     null,
     null,
