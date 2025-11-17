@@ -1,5 +1,5 @@
 {
-  "presetName": "gerhethegggg",
+  "presetName": "updated",
   "presetNotes": "rcm change this bit :)",
   "inventorySlots": [
     {
@@ -83,15 +83,7 @@
       "selected": false,
       "slot": 1
     },
-    {
-      "name": "Achto Primeval mask",
-      "label": "achtomask",
-      "image": "https://img.pvme.io/images/f8yh04C.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_mask",
-      "selected": false,
-      "slot": 1
-    },
+    null,
     {
       "name": "Accursed ashes (noted)",
       "label": "accursedashes1noted",
@@ -101,6 +93,8 @@
       "selected": false,
       "slot": 0
     },
+    null,
+    null,
     {
       "name": "Achto Primeval mask",
       "label": "achtomask",
@@ -128,51 +122,9 @@
       "selected": false,
       "slot": 1
     },
-    {
-      "name": "Achto Primeval mask",
-      "label": "achtomask",
-      "image": "https://img.pvme.io/images/f8yh04C.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_mask",
-      "selected": false,
-      "slot": 1
-    },
-    {
-      "name": "Achto Primeval mask",
-      "label": "achtomask",
-      "image": "https://img.pvme.io/images/f8yh04C.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_mask",
-      "selected": false,
-      "slot": 1
-    },
-    {
-      "name": "Achto Primeval mask",
-      "label": "achtomask",
-      "image": "https://img.pvme.io/images/f8yh04C.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_mask",
-      "selected": false,
-      "slot": 1
-    },
-    {
-      "name": "Achto Primeval mask",
-      "label": "achtomask",
-      "image": "https://img.pvme.io/images/f8yh04C.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_mask",
-      "selected": false,
-      "slot": 1
-    },
-    {
-      "name": "Achto Primeval mask",
-      "label": "achtomask",
-      "image": "https://img.pvme.io/images/f8yh04C.png",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_mask",
-      "selected": false,
-      "slot": 1
-    },
+    null,
+    null,
+    null,
     {
       "name": "Achto Primeval mask",
       "label": "achtomask",
