@@ -1,59 +1,52 @@
 {
   "presetName": "hi rcm :)",
-  "presetNotes": "",
+  "presetNotes": "say hi back",
   "inventorySlots": [
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-      "name": "Achto Primeval boots",
-      "label": "achtoprimboots",
-      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
       "selected": false,
-      "slot": 7
+      "slot": 0
     },
     {
-      "name": "Achto Primeval boots",
-      "label": "achtoprimboots",
-      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
       "selected": false,
-      "slot": 7
+      "slot": 0
     },
     {
-      "name": "Achto Primeval boots",
-      "label": "achtoprimboots",
-      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
       "selected": false,
-      "slot": 7
+      "slot": 0
     },
     {
-      "name": "Achto Primeval boots",
-      "label": "achtoprimboots",
-      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
       "selected": false,
-      "slot": 7
+      "slot": 0
     },
     {
-      "name": "Achto Primeval boots",
-      "label": "achtoprimboots",
-      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
       "selected": false,
-      "slot": 7
+      "slot": 0
     },
     null,
     null,
@@ -104,11 +97,98 @@
     },
     null,
     null,
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
     null,
     null,
-    null,
-    null,
-    null,
+    {
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Accursed ashes (noted)",
+      "label": "accursedashes1noted",
+      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
+      "selected": false,
+      "slot": 0
+    },
     null
   ],
   "equipmentSlots": [
