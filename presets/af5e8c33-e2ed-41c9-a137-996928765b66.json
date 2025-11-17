@@ -1,0 +1,150 @@
+{
+  "presetName": "hi rcm :)",
+  "presetNotes": "",
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    null,
+    null,
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      null,
+      {
+        "label": "deathward",
+        "name": "Death Ward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": []
+  }
+}
