@@ -1,0 +1,131 @@
+{
+  "presetName": "Blibbo Bloppo",
+  "presetNotes": "just a quick testy test",
+  "inventorySlots": [
+    null,
+    {
+      "name": "Achto Primeval mask",
+      "label": "achtomask",
+      "image": "https://img.pvme.io/images/f8yh04C.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_mask",
+      "selected": false,
+      "slot": 1
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Achto Primeval boots",
+      "label": "achtoprimboots",
+      "image": "https://img.pvme.io/images/Mn5v6Fe.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Achto_primeval_boots",
+      "selected": false,
+      "slot": 7
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Cape of legends",
+      "label": "capeoflegends",
+      "image": "https://img.pvme.io/images/8Y1U7r0.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
+      "selected": false,
+      "slot": 12
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Balarak's sash brush",
+      "label": "balarakssashbrush",
+      "image": "https://img.pvme.io/images/KxkWRxPBoB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Balarak%27s_sash_brush",
+      "selected": false,
+      "slot": 5
+    },
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    null,
+    {
+      "name": "Cape of legends",
+      "label": "capeoflegends",
+      "image": "https://img.pvme.io/images/8Y1U7r0.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
+      "selected": false,
+      "slot": 12
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Balarak's sash brush",
+      "label": "balarakssashbrush",
+      "image": "https://img.pvme.io/images/KxkWRxPBoB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Balarak%27s_sash_brush",
+      "selected": false,
+      "slot": 5
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "deathward",
+        "name": "Death Ward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null,
+      null
+    ],
+    "alternativeRelics": [
+      null,
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "gargoyle",
+        "name": "Gargoyle",
+        "image": "https://img.pvme.io/images/zLcXXcI.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
