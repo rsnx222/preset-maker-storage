@@ -1,5 +1,5 @@
 {
-  "presetName": "gerhethe",
+  "presetName": "gerhethegggg",
   "presetNotes": "",
   "inventorySlots": [
     null,
@@ -68,20 +68,12 @@
       null,
       null
     ],
-    "alternativeRelics": [
-      null,
-      null,
-      null
-    ]
+    "alternativeRelics": []
   },
   "familiars": {
     "primaryFamiliars": [
       null
     ],
-    "alternativeFamiliars": [
-      null,
-      null,
-      null
-    ]
+    "alternativeFamiliars": []
   }
 }
