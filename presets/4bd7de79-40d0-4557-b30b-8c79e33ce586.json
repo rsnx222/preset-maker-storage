@@ -1,0 +1,297 @@
+{
+  "presetName": "AFK Melee Moss Golems",
+  "presetNotes": "<div>Tier 2 <img title=\"corbicula\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/690136117273821280.webp?v=1\" /> Corbicula rex perk required.</div><div><br /></div><div>Bonfire <img title=\"firemaking\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1011705727041163396.webp?v=1\" />, <img title=\"thermalflask\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/689530593796423724.webp?v=1\" />, and Boon of Het HP Boosts required.</div><div><br /></div>Desert <img title=\"pantheonaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/982264010126819380.webp?v=1\" /> HP Boost preferred over Bonfire <img title=\"firemaking\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1011705727041163396.webp?v=1\" />.",
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Cannonballs",
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "breakdownNotes": "Use Meteorite Cannonballs.",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Dwarven siege engine",
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Aggression flask (6)",
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Aggression flask (6)",
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Portable fairy ring",
+      "label": "portablefairyring(used)",
+      "image": "https://img.pvme.io/images/iwTl6xy.png",
+      "breakdownNotes": "BJS - Lost Grove",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active",
+      "selected": false,
+      "slot": 13
+    },
+    {
+      "name": "Kwuarm incense sticks",
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Weapon poison+++ flask (6)",
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Enhanced excalibur",
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Spring cleaner 9001",
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false,
+      "slot": 13
+    },
+    {
+      "name": "Powder of penance",
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Gem bag (upgraded)",
+      "label": "gembag",
+      "image": "https://img.pvme.io/images/ODNlwIc.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gem_bag_(upgraded)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Deathwarden Nexus",
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "selected": false,
+      "slot": 9
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Vestments of havoc hood",
+      "label": "vestmenthood",
+      "image": "https://img.pvme.io/images/EVh5SwD.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Ket",
+      "label": "kalket",
+      "image": "https://img.pvme.io/images/bfzX8Up.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Ket",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Essence of Finality amulet",
+      "label": "eof",
+      "image": "https://img.pvme.io/images/UB0lAK8.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Tumeken's Light",
+      "label": "tumekenslight",
+      "image": "https://img.pvme.io/images/lVVjHYAmiS.png",
+      "breakdownNotes": "Aftershock 4,Precise 2/Eruptive 4,Ruthless 3",
+      "wikiLink": "https://runescape.wiki/w/Tumeken%27s_Light",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Vestments of havoc robe top",
+      "label": "vestmentbody",
+      "image": "https://img.pvme.io/images/E5ptfu6.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "selected": false,
+      "slot": 2
+    },
+    null,
+    {
+      "name": "Vestments of havoc robe bottom",
+      "label": "vestmentlegs",
+      "image": "https://img.pvme.io/images/mz7GwWF.png",
+      "breakdownNotes": "Enhanced Devoted 4/Impatient 4,Devoted 4",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Cinderbane gloves",
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Vestments of havoc boots",
+      "label": "vestmentboots",
+      "image": "https://img.pvme.io/images/FarIA5V.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Ring of retribution",
+      "label": "ringofretribution",
+      "image": "https://img.pvme.io/images/5FQsCjXxp7.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_retribution",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Primal abyssal armour spikes",
+      "label": "primalabyssalarmourspikes",
+      "image": "https://img.pvme.io/images/b6W1JxVhTN.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Primal_abyssal_armour_spikes",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Vampyrism aura",
+      "label": "vampaura",
+      "image": "https://img.pvme.io/images/JigaLBL.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura",
+      "selected": false,
+      "slot": 8
+    },
+    {
+      "name": "Scrimshaw of Vampyrism",
+      "label": "vamp",
+      "image": "https://img.pvme.io/images/bMTAHDe.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Vampyrism",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "fontoflife",
+        "name": "Font of Life",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "deathward",
+        "name": "Death Ward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "heightenedsenses",
+        "name": "Heightened Senses",
+        "image": "https://img.pvme.io/images/DjyfvR1.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "bloodnihil",
+        "name": "Blood Nihil",
+        "image": "https://img.pvme.io/images/a2CITlX.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
