@@ -1,0 +1,416 @@
+{
+  "presetName": "Range Araxxor Basic",
+  "presetNotes": "",
+  "inventorySlots": [
+    {
+      "name": "Dark bow",
+      "label": "dbow",
+      "image": "https://img.pvme.io/images/KkJxTbf.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dark_bow",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Enhanced excalibur",
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Adrenaline renewal potion (4)",
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Vulnerabilty bombs",
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Ful arrow",
+      "label": "fularrow",
+      "image": "https://img.pvme.io/images/ayjE5KH.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ful_arrow",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Saradomin brew flask (6)",
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Saradomin brew flask (6)",
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Saradomin brew flask (6)",
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Sailfish",
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Sailfish",
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Grasping rune pouch (pink)",
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/cMrBUILe61.png",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Grasping rune pouch (black)",
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hxQ7DadacM.png",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Super restore flask (6)",
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Super restore flask (6)",
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Saradomin brew flask (6)",
+      "label": "sara",
+      "image": "https://img.pvme.io/images/NTlFcpC.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Saradomin_brew_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Sailfish",
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Sailfish",
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false,
+      "slot": 0
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Sirenic mask",
+      "label": "sirenichelm",
+      "image": "https://img.pvme.io/images/lhfAbhp.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_mask",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Xil",
+      "label": "kalxil",
+      "image": "https://img.pvme.io/images/TNKAuKX.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Essence of Finality amulet (green)",
+      "label": "eofgreenunorn",
+      "image": "https://img.pvme.io/images/8a6M64a.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet_(green)",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Noxious longbow",
+      "label": "noxbow",
+      "image": "https://img.pvme.io/images/iiBXivW.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Noxious_longbow",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Sirenic hauberk",
+      "label": "sirenictop",
+      "image": "https://img.pvme.io/images/lYDKMiu.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_hauberk",
+      "selected": false,
+      "slot": 2
+    },
+    null,
+    {
+      "name": "Sirenic chaps",
+      "label": "sireniclegs",
+      "image": "https://img.pvme.io/images/gBPOqaV.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Sirenic_chaps",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Armadyl gloves",
+      "label": "armagloves",
+      "image": "https://img.pvme.io/images/FjsLw1L.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Armadyl_gloves",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Fleeting boots",
+      "label": "fleet",
+      "image": "https://img.pvme.io/images/R5kSCvF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fleeting_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Ring of death",
+      "label": "rod",
+      "image": "https://img.pvme.io/images/y5vAY4M.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_death",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Black stone arrows",
+      "label": "bsa100",
+      "image": "https://img.pvme.io/images/uBbMQoy.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Black_stone_arrows",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Reckless aura",
+      "label": "reckless",
+      "image": "https://img.pvme.io/images/FZ59xZK.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura",
+      "selected": false,
+      "slot": 8
+    },
+    {
+      "name": "Scrimshaw of Cruelty",
+      "label": "cruelty",
+      "image": "https://img.pvme.io/images/we1VPRx.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scrimshaw_of_Cruelty",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "berserkersfury",
+        "name": "Berserkers Fury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "furyofthesmall",
+        "name": "Fury of the Small",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "fontoflife",
+        "name": "Font of Life",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "bloodreaver",
+        "name": "Blood Reaver",
+        "image": "https://img.pvme.io/images/sxnDQng.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "kalgdemon",
+        "name": "Kal'gerion Demon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}
