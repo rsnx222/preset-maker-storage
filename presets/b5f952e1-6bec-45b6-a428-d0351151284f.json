@@ -1,0 +1,221 @@
+{
+  "presetName": "DRAFT v1 Menaphos Market Guards - Elite & Hard Clue Gathering",
+  "presetNotes": "- Legendary five-finger discount aura",
+  "inventorySlots": [
+    {
+      "name": "Potion reservoir (inactive)",
+      "label": "potionreservoir2",
+      "image": "https://img.pvme.io/images/af9O4EM.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Potion reservoir",
+      "label": "potionreservoir",
+      "image": "https://img.pvme.io/images/uIF03Iz.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Spirit attraction flask (6)",
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Spirit attraction flask (6)",
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Leela's favour",
+      "label": "leelasfavour",
+      "image": "https://img.pvme.io/images/AMEBwepV3P.png",
+      "breakdownNotes": "Teleport to Merchant District",
+      "wikiLink": "https://runescape.wiki/w/Leela's_favour",
+      "selected": false,
+      "slot": 6
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Master camouflage head",
+      "label": "mastercamouflagehead",
+      "image": "https://img.pvme.io/images/lW5qEwC.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_head",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Thieving cape",
+      "label": "thievingcape",
+      "image": "https://img.pvme.io/images/qy1ldt7C8Q.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Thieving_cape",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Grace of the elves",
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Mushroomy pickpocketing bag",
+      "label": "mushroomypickpocketingbag",
+      "image": "https://img.pvme.io/images/PzKgt5nJL9.png",
+      "breakdownNotes": "perked with Oblivious | Prosper",
+      "wikiLink": "https://runescape.wiki/w/Mushroomy_pickpocketing_bag",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Master camouflage body",
+      "label": "mastercamouflagebody",
+      "image": "https://img.pvme.io/images/i8Lc9aI.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_body",
+      "selected": false,
+      "slot": 2
+    },
+    {
+      "name": "Enhanced excalibur",
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Master camouflage legs",
+      "label": "mastercamouflagelegs",
+      "image": "https://img.pvme.io/images/poKctmF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_legs",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Master camouflage hands",
+      "label": "mastercamouflagehands",
+      "image": "https://img.pvme.io/images/VNC7QgK.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_hands",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Master camouflage feet",
+      "label": "mastercamouflagefeet",
+      "image": "https://img.pvme.io/images/3GULnea.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_feet",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Hazelmere's signet ring",
+      "label": "hsr",
+      "image": "https://img.pvme.io/images/xmcbfhs.png",
+      "breakdownNotes": "or Luck of the Dwarves ring/relic",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Grasping rune pouch (black)",
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hxQ7DadacM.png",
+      "breakdownNotes": "Earth | Fire | Body | Soul - if using crystal mask",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    {
+      "name": "Scripture of Bik",
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "stickyfingers",
+        "name": "Sticky Fingers",
+        "image": "https://img.pvme.io/images/KHLIxCJ.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null,
+      null
+    ],
+    "alternativeRelics": [
+      {
+        "label": "luckofthedwarves",
+        "name": "Luck of the Dwarves",
+        "image": "https://img.pvme.io/images/Ivcgjer.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
