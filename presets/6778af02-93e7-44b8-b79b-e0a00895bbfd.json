@@ -1,0 +1,378 @@
+{
+  "presetName": "Long AFK Pickpocketing Menaphos market guard",
+  "presetNotes": "This preset relies on a Ring of Vitur and Magpie pouches, requiring only a single click every 15 minutes to prevent logout:\n- Make sure a Totem of Summoning is active to increase your Magpie familiar’s duration by 16 minutes to a total length of 48 minutes.\n- Resummon your Magpie familiar every 48 minutes. If you run out of familiar spell points, cast Prism of Restoration.\n- An empty inventory slot is required for pickpocketing, and a second free slot for the occasional mimic-kill token.",
+  "inventorySlots": [
+    null,
+    null,
+    {
+      "name": "Extra fine sand",
+      "label": "extrafinesand",
+      "image": "https://img.pvme.io/images/oI3o2xrvpi.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Extra_fine_sand",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Waterskin",
+      "label": "waterskin",
+      "image": "https://img.pvme.io/images/ST0zXIdzcp.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Waterskin",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Menaphite gift offering (small)",
+      "label": "menaphitegiftofferingsmall",
+      "image": "https://img.pvme.io/images/SZMjuQyTah.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Menaphite_gift_offering_(small)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Magpie pouch",
+      "label": "magpiepouch",
+      "image": "https://img.pvme.io/images/4XhgCbFbSc.png",
+      "breakdownNotes": "Grants a +2 Thieving level boost",
+      "wikiLink": "https://runescape.wiki/w/Magpie_pouch",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Magpie pouch",
+      "label": "magpiepouch",
+      "image": "https://img.pvme.io/images/4XhgCbFbSc.png",
+      "breakdownNotes": "Grants a +2 Thieving level boost",
+      "wikiLink": "https://runescape.wiki/w/Magpie_pouch",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Leela's favour",
+      "label": "leelasfavour",
+      "image": "https://img.pvme.io/images/AMEBwepV3P.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Leela's_favour",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Memory shard",
+      "label": "memoryshard",
+      "image": "https://img.pvme.io/images/9Sf9ugGYPr.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Memory_shard",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Acadia wood spirit",
+      "label": "acadiawoodspirit",
+      "image": "https://img.pvme.io/images/X8C70ia6wo.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Acadia_wood_spirit",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Potato cactus",
+      "label": "potatocactus",
+      "image": "https://img.pvme.io/images/YqMJwpYLHc.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Potato_cactus",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Menaphite gift offering (medium)",
+      "label": "menaphitegiftofferingmedium",
+      "image": "https://img.pvme.io/images/QIYlL99G92.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Menaphite_gift_offering_(medium)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Magpie pouch",
+      "label": "magpiepouch",
+      "image": "https://img.pvme.io/images/4XhgCbFbSc.png",
+      "breakdownNotes": "Grants a +2 Thieving level boost",
+      "wikiLink": "https://runescape.wiki/w/Magpie_pouch",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Magpie pouch",
+      "label": "magpiepouch",
+      "image": "https://img.pvme.io/images/4XhgCbFbSc.png",
+      "breakdownNotes": "Grants a +2 Thieving level boost",
+      "wikiLink": "https://runescape.wiki/w/Magpie_pouch",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Spirit attraction flask (6)",
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "breakdownNotes": "<span>Automatically collects catalyst of alterations</span>",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Spirit attraction flask (6)",
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "breakdownNotes": "<span>Automatically collects catalyst of alterations</span>",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Vital spark",
+      "label": "vitalspark",
+      "image": "https://img.pvme.io/images/qDohEMPwiw.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vital_spark",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Large bladed adamant salvage",
+      "label": "largebladedadamantsalvage",
+      "image": "https://img.pvme.io/images/iTcnfQn9ij.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Large_bladed_adamant_salvage",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Magpie pouch",
+      "label": "magpiepouch",
+      "image": "https://img.pvme.io/images/4XhgCbFbSc.png",
+      "breakdownNotes": "Grants a +2 Thieving level boost",
+      "wikiLink": "https://runescape.wiki/w/Magpie_pouch",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Magpie pouch",
+      "label": "magpiepouch",
+      "image": "https://img.pvme.io/images/4XhgCbFbSc.png",
+      "breakdownNotes": "Grants a +2 Thieving level boost",
+      "wikiLink": "https://runescape.wiki/w/Magpie_pouch",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Magpie pouch",
+      "label": "magpiepouch",
+      "image": "https://img.pvme.io/images/4XhgCbFbSc.png",
+      "breakdownNotes": "Grants a +2 Thieving level boost",
+      "wikiLink": "https://runescape.wiki/w/Magpie_pouch",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Spirit attraction flask (6)",
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "breakdownNotes": "<span>Automatically collects catalyst of alterations</span>",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Spirit attraction flask (6)",
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "breakdownNotes": "<span>Automatically collects catalyst of alterations</span>",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Spirit attraction flask (6)",
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "breakdownNotes": "<span>Automatically collects catalyst of alterations</span>",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Charos' clue carrier",
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "breakdownNotes": "Any clue scrolls received from pickpocketing, <span>catalyst of alterations and</span> prosper perk will be automatically stored in the clue carrier",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false,
+      "slot": 13
+    },
+    {
+      "name": "Magpie pouch",
+      "label": "magpiepouch",
+      "image": "https://img.pvme.io/images/4XhgCbFbSc.png",
+      "breakdownNotes": "Grants a +2 Thieving level boost",
+      "wikiLink": "https://runescape.wiki/w/Magpie_pouch",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Magpie pouch",
+      "label": "magpiepouch",
+      "image": "https://img.pvme.io/images/4XhgCbFbSc.png",
+      "breakdownNotes": "Grants a +2 Thieving level boost",
+      "wikiLink": "https://runescape.wiki/w/Magpie_pouch",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Magpie pouch",
+      "label": "magpiepouch",
+      "image": "https://img.pvme.io/images/4XhgCbFbSc.png",
+      "breakdownNotes": "Grants a +2 Thieving level boost",
+      "wikiLink": "https://runescape.wiki/w/Magpie_pouch",
+      "selected": false,
+      "slot": 0
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Master camouflage head",
+      "label": "mastercamouflagehead",
+      "image": "https://img.pvme.io/images/lW5qEwC.png",
+      "breakdownNotes": "- Inherits the Trahaearn exoskeleton set's effects if owned, even while the set is stored in the bank or the armour case of the player's house\n\n- 7% chance to double pickpocket & avoid being stunned when pickpocketing",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_head",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Thieving cape",
+      "label": "thievingcape",
+      "image": "https://img.pvme.io/images/qy1ldt7C8Q.png",
+      "breakdownNotes": "Automatically notes all Thieving loot from pickpocketing",
+      "wikiLink": "https://runescape.wiki/w/Thieving_cape",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Grace of the elves",
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Mushroomy pickpocketing bag",
+      "label": "mushroomypickpocketingbag",
+      "image": "https://img.pvme.io/images/PzKgt5nJL9.png",
+      "breakdownNotes": "Perked with Prosper | Oblivious",
+      "wikiLink": "https://runescape.wiki/w/Mushroomy_pickpocketing_bag",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Master camouflage body",
+      "label": "mastercamouflagebody",
+      "image": "https://img.pvme.io/images/i8Lc9aI.png",
+      "breakdownNotes": "<li><br /></li>",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_body",
+      "selected": false,
+      "slot": 2
+    },
+    null,
+    {
+      "name": "Master camouflage legs",
+      "label": "mastercamouflagelegs",
+      "image": "https://img.pvme.io/images/poKctmF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_legs",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Master camouflage hands",
+      "label": "mastercamouflagehands",
+      "image": "https://img.pvme.io/images/VNC7QgK.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_hands",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Master camouflage feet",
+      "label": "mastercamouflagefeet",
+      "image": "https://img.pvme.io/images/3GULnea.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Master_camouflage_feet",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Ring of Vitur",
+      "label": "ringofvitur",
+      "image": "https://img.pvme.io/images/poa5bkGGKt.png",
+      "breakdownNotes": "+5% Thieving success chance",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Vitur",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Grasping rune pouch (black)",
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hxQ7DadacM.png",
+      "breakdownNotes": "Astral | Blood | Soul are needed to cast Prism of Restoration",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    {
+      "name": "Scripture of Bik",
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "breakdownNotes": "<span>For additional clues through Catalyst of alteration procs</span>",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "stickyfingers",
+        "name": "Sticky Fingers",
+        "image": "https://img.pvme.io/images/KHLIxCJ.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "luckofthedwarves",
+        "name": "Luck of the Dwarves",
+        "image": "https://img.pvme.io/images/Ivcgjer.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "magpie",
+        "name": "Magpie",
+        "image": "https://img.pvme.io/images/4XhgCbFbSc.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
