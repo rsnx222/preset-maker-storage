@@ -326,5 +326,9 @@
   {
     "presetId": "fcd5d916-4154-43ec-a6a7-d0b026de7a4a",
     "presetName": "Long AFK Pickpocketing Menaphos market guard"
+  },
+  {
+    "presetId": "d8068ec7-48a0-4cee-a836-0a66758544e3",
+    "presetName": "Mid AFK Pickpocketing Menaphos market guard"
   }
 ]
