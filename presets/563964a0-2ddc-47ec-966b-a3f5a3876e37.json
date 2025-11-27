@@ -1,6 +1,6 @@
 {
-  "presetName": "gerhethegggg  rffff",
-  "presetNotes": "rcm change this bit :) rf",
+  "presetName": "Look mom i fixed it!",
+  "presetNotes": "<br />",
   "inventorySlots": [
     null,
     null,
@@ -12,16 +12,16 @@
     null,
     null,
     null,
+    null,
     {
-      "name": "Accursed ashes (noted)",
-      "label": "accursedashes1noted",
-      "image": "https://img.pvme.io/images/JiBstmM4RU.png",
+      "name": "Magic notepaper",
+      "label": "1knote",
+      "image": "https://img.pvme.io/images/8r07LbS.png",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Accursed_ashes",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
       "selected": false,
       "slot": 0
     },
-    null,
     null,
     null,
     null,
@@ -44,27 +44,34 @@
     null,
     null,
     null,
+    null,
+    null,
+    null,
+    null,
+    null,
     {
-      "name": "Akrisae's robe top",
-      "label": "akrisaetop",
-      "image": "https://img.pvme.io/images/4vpqobx.png",
+      "name": "Luck of the dwarves",
+      "label": "lotd",
+      "image": "https://img.pvme.io/images/nXXZxpH.png",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Akrisae's_robe_top",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
       "selected": false,
-      "slot": 2
+      "slot": 11
     },
-    null,
-    null,
-    null,
-    null,
-    null,
     null,
     null,
     null
   ],
   "relics": {
     "primaryRelics": [
-      null,
+      {
+        "label": "luckofthedwarves",
+        "name": "Luck of the Dwarves",
+        "image": "https://img.pvme.io/images/Ivcgjer.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
       null,
       null
     ],
