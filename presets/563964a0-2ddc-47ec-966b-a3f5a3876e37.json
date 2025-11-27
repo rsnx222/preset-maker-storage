@@ -12,7 +12,15 @@
     null,
     null,
     null,
-    null,
+    {
+      "name": "Magic notepaper",
+      "label": "40note",
+      "image": "https://img.pvme.io/images/TNm1JRD.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "selected": false,
+      "slot": 0
+    },
     {
       "name": "Magic notepaper",
       "label": "1knote",
