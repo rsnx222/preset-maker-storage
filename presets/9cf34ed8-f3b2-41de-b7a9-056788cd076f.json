@@ -1,0 +1,321 @@
+{
+  "presetName": "AFK Glacytes",
+  "presetNotes": "You may not need <img title=\"darkness\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1137809209782698024.png?v=1\" /> but use it if you get low.",
+  "inventorySlots": [
+    {
+      "name": "Charos' clue carrier",
+      "label": "cluebag",
+      "image": "https://img.pvme.io/images/KPREDHT.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Charos'_clue_carrier",
+      "selected": false,
+      "slot": 13
+    },
+    {
+      "name": "Cannonballs",
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Powder of penance",
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Dwarven siege engine",
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Magic notepaper",
+      "label": "1knote",
+      "image": "https://img.pvme.io/images/8r07LbS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Magic_notepaper",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    {
+      "name": "Lantadyme incense sticks",
+      "label": "lantadymeincensesticks100",
+      "image": "https://img.pvme.io/images/4n0C5gK.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Spring cleaner 9001",
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false,
+      "slot": 13
+    },
+    {
+      "name": "Blood rune",
+      "label": "bloodrune",
+      "image": "https://img.pvme.io/images/DmJhw50.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blood_rune",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Fire rune",
+      "label": "firerune",
+      "image": "https://img.pvme.io/images/Moq1ANC.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fire_rune",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Aggression flask (6)",
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Spirit attraction flask (6)",
+      "label": "spiritattractionflask",
+      "image": "https://img.pvme.io/images/9oDoU6T.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spirit_attraction_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Zemouregal's Nexus",
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Aggression flask (6)",
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Artificer's measure",
+      "label": "artificer",
+      "image": "https://img.pvme.io/images/gMZLjIv.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Artificer's_measure",
+      "selected": false,
+      "slot": 5
+    },
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Anima core helm of seren",
+      "label": "serenhelm",
+      "image": "https://img.pvme.io/images/VMQ89aP.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Anima_core_helm_of_seren",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Amulet of zealots",
+      "label": "zealots",
+      "image": "https://img.pvme.io/images/UHRGdEk.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Roar of Awakening",
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "breakdownNotes": "<img title=\"caroming4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/791281588792590336.png?v=1\" /> <img title=\"precise2\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1084799750416637993.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Virtus robe top",
+      "label": "virtustop",
+      "image": "https://img.pvme.io/images/cau9oLa.png",
+      "breakdownNotes": "<img title=\"biting4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087809617931.png?v=1\" /> | <img title=\"crack4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073087662686249.png?v=1\" /> <img title=\"relentless5\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800920748092.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top",
+      "selected": false,
+      "slot": 2
+    },
+    {
+      "name": "Ode to Deceit",
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "breakdownNotes": "<img title=\"eruptive4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1214416401561952296.png?v=1\" /> <img title=\"ruthless3\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712244800572883025.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Virtus robe legs",
+      "label": "virtuslegs",
+      "image": "https://img.pvme.io/images/eEGwTU4.png",
+      "breakdownNotes": "<img title=\"scav\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1109429520995463288.png?v=1\" /> | <img title=\"imp4\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/712073088204013640.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Kerapac's wrist wraps",
+      "label": "wristwraps",
+      "image": "https://img.pvme.io/images/6iT5PjZ.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kerapac's_wrist_wraps",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Blast diffusion boots",
+      "label": "diffusion",
+      "image": "https://img.pvme.io/images/2VPk1SN.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blast_diffusion_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Hazelmere's signet ring",
+      "label": "hsr",
+      "image": "https://img.pvme.io/images/xmcbfhs.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hazelmere's_signet",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Grasping rune pouch (blue)",
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/1JjM2xHyOj.png",
+      "breakdownNotes": "<img title=\"bloodrune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252658970001409.png?v=1\" /> | <img title=\"firerune\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/536252659850674186.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Mahjarrat aura",
+      "label": "mahj",
+      "image": "https://img.pvme.io/images/br11PCq.png",
+      "breakdownNotes": "→ <img title=\"mani\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505153709965322.png?v=1\" /> → <img title=\"darkmagic\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505652571963417.png?v=1\" /> → <img title=\"penanceaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505653062565907.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura",
+      "selected": false,
+      "slot": 8
+    },
+    {
+      "name": "Scripture of Bik",
+      "label": "scriptureofbik",
+      "image": "https://img.pvme.io/images/t1KMJMv.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Bik",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "fontoflife",
+        "name": "Font of Life",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "conservationofenergy",
+        "name": "Conservation of Energy",
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "berserkersfury",
+        "name": "Berserkers Fury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "kalgdemon",
+        "name": "Kal'gerion Demon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
