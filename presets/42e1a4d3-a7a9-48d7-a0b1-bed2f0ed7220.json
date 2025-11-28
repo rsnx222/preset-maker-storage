@@ -1,0 +1,350 @@
+{
+  "presetName": "Corp T90 Necro",
+  "presetNotes": "",
+  "inventorySlots": [
+    {
+      "name": "Conjurer's raising amulet",
+      "label": "conjurerammy",
+      "image": "https://img.pvme.io/images/UIMnph4.png",
+      "breakdownNotes": "Used If No EOF Or Reaper Is Available",
+      "wikiLink": "https://runescape.wiki/w/Conjurer%27s_raising_amulet",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Reaper necklace (or)",
+      "label": "reaper",
+      "image": "https://img.pvme.io/images/PGswTB1.png",
+      "breakdownNotes": "<span>Used If No EOF Is Available</span>",
+      "wikiLink": "https://runescape.wiki/w/Reaper_necklace_(or)",
+      "selected": false,
+      "slot": 10
+    },
+    null,
+    null,
+    {
+      "name": "Kwuarm incense sticks",
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "breakdownNotes": "<span>Used For Extra Poison Damage if Available</span>",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Enhanced excalibur",
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "breakdownNotes": "Used To Despawn Conjures After Every Kill",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Zorgoth's soul ring",
+      "label": "zorgothssoulring",
+      "image": "https://img.pvme.io/images/EGVLuFE.png",
+      "breakdownNotes": "Used If No Occultist Available",
+      "wikiLink": "https://runescape.wiki/w/Zorgoth%27s_soul_ring",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Cinderbane gloves",
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "breakdownNotes": "Used For Extra Poison Damage if Available",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "selected": false,
+      "slot": 6
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Weapon poison+++ (1)",
+      "label": "poison1",
+      "image": "https://img.pvme.io/images/hw7rKHz.png",
+      "breakdownNotes": "<span>Used For Extra Poison Damage if Available</span>",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(1)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Adrenaline renewal potion (4)",
+      "label": "renewal4",
+      "image": "https://img.pvme.io/images/IqAjWRF.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Erethdor's grimoire",
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "breakdownNotes": "Can Be Used If Available",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "selected": false,
+      "slot": 13
+    },
+    {
+      "name": "Vulnerabilty bombs",
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "breakdownNotes": "Helpful But Not Needed",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Guthix rest",
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Guthix rest",
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false,
+      "slot": 0
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Deathdealer hood (tier 90)",
+      "label": "deathdealerhoodt90",
+      "image": "https://img.pvme.io/images/mOp3i6V.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_90)",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Mor",
+      "label": "kalmor",
+      "image": "https://img.pvme.io/images/bIV6C4o.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mor",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "EoF - Death guard",
+      "label": "eofblack",
+      "image": "https://img.pvme.io/images/iZw3Uee.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Death_guard",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Death guard (tier 90)",
+      "label": "deathguardt90",
+      "image": "https://img.pvme.io/images/tosZimW.png",
+      "breakdownNotes": "<span>Entry Level Perks #perk-information</span>",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_90)",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Deathdealer robe top (tier 90)",
+      "label": "deathdealerrobetopt90",
+      "image": "https://img.pvme.io/images/iKWW3ZF.png",
+      "breakdownNotes": "Entry Level Perks #perk-information",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_90)",
+      "selected": false,
+      "slot": 2
+    },
+    {
+      "name": "Skull lantern (tier 90)",
+      "label": "skulllanternt90",
+      "image": "https://img.pvme.io/images/nEI3w2n.png",
+      "breakdownNotes": "<span>Entry Level Perks #perk-information</span>",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_90)",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Deathdealer robe bottom (tier 90)",
+      "label": "deathdealerrobebottomt90",
+      "image": "https://img.pvme.io/images/AjOaaB7.png",
+      "breakdownNotes": "<span>Entry Level Perks #perk-information</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_bottom_(tier_90)",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Deathdealer gloves (tier 90)",
+      "label": "deathdealerglovest90",
+      "image": "https://img.pvme.io/images/olAlTZ8.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_gloves_(tier_90)",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Deathdealer boots (tier 90)",
+      "label": "deathdealerbootst90",
+      "image": "https://img.pvme.io/images/ixeiTn3.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_90)",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Occulist's Ring",
+      "label": "occulistsring",
+      "image": "https://img.pvme.io/images/bCYjo7u.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Occultist%27s_ring",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Zemouregal's Nexus",
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Equilibrium aura",
+      "label": "equilibriumaura",
+      "image": "https://img.pvme.io/images/a3Up2sd.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Equilibrium_aura",
+      "selected": false,
+      "slot": 8
+    },
+    {
+      "name": "Scripture of Ful",
+      "label": "scriptureofful",
+      "image": "https://img.pvme.io/images/lPppoD4.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "name": "Conservation of Energy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "berserkersfury",
+        "name": "Berserkers Fury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null
+    ],
+    "alternativeRelics": [
+      {
+        "label": "berserkersfury",
+        "name": "Berserkers Fury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "fontoflife",
+        "name": "Font of Life",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      }
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": []
+  }
+}
