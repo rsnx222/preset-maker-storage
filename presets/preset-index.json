@@ -390,5 +390,9 @@
   {
     "presetId": "359bc57b-ba61-4f55-8685-3a2014b22704",
     "presetName": "Melee Speed Kills"
+  },
+  {
+    "presetId": "0a5e5114-c04c-4f03-a63e-89e189d1a4f1",
+    "presetName": "Corp Melee Speed Kills"
   }
 ]
