@@ -1,0 +1,198 @@
+{
+  "presetName": "Corp Melee Speed Kills",
+  "presetNotes": "",
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Adrenaline renewal flask (6)",
+      "label": "renewal6",
+      "image": "https://img.pvme.io/images/Swtl8pP.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Guthix rest",
+      "label": "grest",
+      "image": "https://img.pvme.io/images/iXpGYQo.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_rest",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Blue blubber jellyfish",
+      "label": "jelly",
+      "image": "https://img.pvme.io/images/RD2LyxF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Vestments of havoc hood",
+      "label": "vestmenthood",
+      "image": "https://img.pvme.io/images/EVh5SwD.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "EoF - Dragon claws",
+      "label": "eofred",
+      "image": "https://img.pvme.io/images/JMC7t7Y.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_claws",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Masterwork spear of annihilation",
+      "label": "spear",
+      "image": "https://img.pvme.io/images/uLkJkio.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_spear_of_annihilation",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Vestments of havoc robe top",
+      "label": "vestmentbody",
+      "image": "https://img.pvme.io/images/E5ptfu6.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "selected": false,
+      "slot": 2
+    },
+    null,
+    {
+      "name": "Vestments of havoc robe bottom",
+      "label": "vestmentlegs",
+      "image": "https://img.pvme.io/images/mz7GwWF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Deathtouched bracelet",
+      "label": "dtb",
+      "image": "https://img.pvme.io/images/ia3JNEm.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathtouched_bracelet",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Vestments of havoc boots",
+      "label": "vestmentboots",
+      "image": "https://img.pvme.io/images/FarIA5V.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Reaver's ring",
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Zemouregal's Nexus",
+      "label": "zemouregalsnexus",
+      "image": "https://img.pvme.io/images/3pFXvMR.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Zemouregal%27s_nexus",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Berserker aura",
+      "label": "zerk",
+      "image": "https://img.pvme.io/images/Fme45Ts.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Berserker_aura",
+      "selected": false,
+      "slot": 8
+    },
+    {
+      "name": "Erethdor's grimoire",
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "name": "Conservation of Energy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null,
+      null
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": []
+  }
+}
