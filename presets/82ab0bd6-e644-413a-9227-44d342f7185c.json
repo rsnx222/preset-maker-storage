@@ -1,0 +1,391 @@
+{
+  "presetName": "Bossing preset",
+  "presetNotes": "",
+  "inventorySlots": [
+    {
+      "name": "Binding contract (kal'gerion demon)",
+      "label": "kalg",
+      "image": "https://img.pvme.io/images/5dumsv0.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(kal'gerion_demon)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Kal'gerion Demon scroll (Crit-i-Kal)",
+      "label": "kalgscrolls500",
+      "image": "https://img.pvme.io/images/hjoH9xr.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Kal%27gerion_Demon_scroll_(Crit-i-Kal)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Grim gem",
+      "label": "grimgem",
+      "image": "https://img.pvme.io/images/BQZgdnb.png",
+      "breakdownNotes": "To get Reaper Tasks from bank",
+      "wikiLink": "https://runescape.wiki/w/Grim_gem",
+      "selected": false,
+      "slot": 13
+    },
+    {
+      "name": "Lantadyme incense sticks",
+      "label": "lantasticks",
+      "image": "https://img.pvme.io/images/LfpiRjg.png",
+      "breakdownNotes": "Increase the duration of potions by 2 minutes if at max stacks",
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Spirit weed incense sticks",
+      "label": "spiritsticks",
+      "image": "https://img.pvme.io/images/8RLFr9n.png",
+      "breakdownNotes": "Boosts damage from Ripper Demon if using scrolls",
+      "wikiLink": "https://runescape.wiki/w/Spirit_weed_incense_sticks",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Soul rune",
+      "label": "soulrune1k",
+      "image": "https://img.pvme.io/images/I6H2Brv.png",
+      "breakdownNotes": "<span>Commonly used rune, easy to fill up pouches in a pinch</span>",
+      "wikiLink": "https://runescape.wiki/w/Soul_rune",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Grasping rune pouch",
+      "label": "graspingpouch",
+      "image": "https://img.pvme.io/images/WkFQ7nSUa3.png",
+      "breakdownNotes": "<span>Fill these pouches according to Wiki recommendations</span><span>\n</span><span><a href=\"https://runescape.wiki/w/Grasping_rune_pouch\" contenteditable=\"false\">https://runescape.wiki/w/Grasping_rune_pouch</a> </span>",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Binding contract (ripper demon)",
+      "label": "ripper",
+      "image": "https://img.pvme.io/images/OQ4ZaK3.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(ripper_demon)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Ripper Demon scroll (Death From Above)",
+      "label": "ripperscrolls",
+      "image": "https://img.pvme.io/images/ML1c3oq.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ripper_Demon_scroll_(Death_From_Above)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Red firelighter",
+      "label": "redfirelighter",
+      "image": "https://img.pvme.io/images/f4SBGjv.png",
+      "breakdownNotes": "~ Placeholder ~ \nReplace this with a Life Refresh",
+      "wikiLink": "https://runescape.wiki/w/Red_firelighter",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Kwuarm incense sticks",
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "breakdownNotes": "Increases poison damage",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Irit incense sticks",
+      "label": "iritsticks",
+      "image": "https://img.pvme.io/images/oEYAJZf.png",
+      "breakdownNotes": "At max stacks grants an immunity to poison",
+      "wikiLink": "https://runescape.wiki/w/Irit_incense_sticks",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Water rune",
+      "label": "waterrune1k",
+      "image": "https://img.pvme.io/images/lvD8hP6.png",
+      "breakdownNotes": "<span>Commonly used rune, easy to fill up pouches in a pinch</span>",
+      "wikiLink": "https://runescape.wiki/w/Water_rune",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Grasping rune pouch (pink)",
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/cMrBUILe61.png",
+      "breakdownNotes": "<span>Fill these pouches according to Wiki recommendations</span><span>\n</span><span><a href=\"https://runescape.wiki/w/Grasping_rune_pouch\" contenteditable=\"false\">https://runescape.wiki/w/Grasping_rune_pouch</a> </span>",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Binding contract (hellhound)",
+      "label": "hellhound",
+      "image": "https://img.pvme.io/images/FPfRiAQ.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(hellhound)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Hellhound scroll (Soul Food)",
+      "label": "hellhoundscrolls500",
+      "image": "https://img.pvme.io/images/rB1tPpW.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Hellhound_scroll_(Soul_Food)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Powder of penance",
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "breakdownNotes": "Gives prayer points back when taking damage",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Powder of protection",
+      "label": "protectionpowder",
+      "image": "https://img.pvme.io/images/3SbxYpW.png",
+      "breakdownNotes": "Good when using normal prayerbook",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_protection",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blue firelighter",
+      "label": "bluefirelighter",
+      "image": "https://img.pvme.io/images/SNyIwF1.png",
+      "breakdownNotes": "~ Placeholder~\nReplace with powder of defence\n<span>Good when using normal prayerbook</span>",
+      "wikiLink": "https://runescape.wiki/w/Blue_firelighter",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Fire rune",
+      "label": "firerune10k",
+      "image": "https://img.pvme.io/images/rbZs9di.png",
+      "breakdownNotes": "<span>Commonly used rune, easy to fill up pouches in a pinch</span>",
+      "wikiLink": "https://runescape.wiki/w/Fire_rune",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Grasping rune pouch (red)",
+      "label": "graspingpouchred",
+      "image": "https://img.pvme.io/images/t6fjalFfk9.png",
+      "breakdownNotes": "Fill these pouches according to Wiki recommendations\n<a href=\"https://runescape.wiki/w/Grasping_rune_pouch\" contenteditable=\"false\">https://runescape.wiki/w/Grasping_rune_pouch</a> \n",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Blessed flask",
+      "label": "blessed",
+      "image": "https://img.pvme.io/images/FVmxMkH.png",
+      "breakdownNotes": "To easily check charges before bossing",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Divine charge",
+      "label": "divcharge",
+      "image": "https://img.pvme.io/images/h5QEOgi.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Divine_charge",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "To pre-pot at the bank, will safe inventory space",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Weapon poison+++ flask (6)",
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "breakdownNotes": "<span>To pre-pot at the bank, will safe inventory space</span>",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Purple firelighter",
+      "label": "purplefirelighter",
+      "image": "https://img.pvme.io/images/e3znHPZ.png",
+      "breakdownNotes": "~Placeholder~\nReplace with Panthenon Aura. Het's Strenght can further boost your life points by a 1000.",
+      "wikiLink": "https://runescape.wiki/w/Purple_firelighter",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Time rune",
+      "label": "timerune",
+      "image": "https://img.pvme.io/images/uhPTmJEBGW.png",
+      "breakdownNotes": "U can cast Temporal Anomaly at bank",
+      "wikiLink": "https://runescape.wiki/w/Time_rune",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Archaeology master cape",
+      "label": "archcape",
+      "image": "https://img.pvme.io/images/EcaWmO8.png",
+      "breakdownNotes": "Used for swapping around perks",
+      "wikiLink": "https://runescape.wiki/w/Archaeology_master_cape",
+      "selected": false,
+      "slot": 12
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Deathwarden hood (tier 90)",
+      "label": "deathwardenhoodt90",
+      "image": "https://img.pvme.io/images/5vasEy6.png",
+      "breakdownNotes": "Equip highest possible live boost armour in this slot. This synergices with the oo'glog pool",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_hood_(tier_90)",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Reefwalker's cape",
+      "label": "reefcape",
+      "image": "https://img.pvme.io/images/wTwgzck.png",
+      "breakdownNotes": "Highest health boost in game, can be replaced by magic 99 cape, especially nice if you havent unlocked Wars Blessing",
+      "wikiLink": "https://runescape.wiki/w/Reefwalker's_cape",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Grace of the elves",
+      "label": "gote",
+      "image": "https://img.pvme.io/images/4KgPcpm.png",
+      "breakdownNotes": "For invention guild teleport and Anachronia dino farm tele",
+      "wikiLink": "https://runescape.wiki/w/Grace_of_the_elves",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Dragon battleaxe",
+      "label": "dba",
+      "image": "https://img.pvme.io/images/hZGOmkB.png",
+      "breakdownNotes": "Potential pre DBA, can be replaced by pretty much everthing",
+      "wikiLink": "https://runescape.wiki/w/Dragon_battleaxe",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Deathwarden robe top (tier 90)",
+      "label": "deathwardenrobetopt90",
+      "image": "https://img.pvme.io/images/JkyJN48.png",
+      "breakdownNotes": "<span>Equip highest possible live boost armour in this slot. This synergices with the oo'glog pool</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_top_(tier_90)",
+      "selected": false,
+      "slot": 2
+    },
+    {
+      "name": "Merciless kiteshield",
+      "label": "mageshield",
+      "image": "https://img.pvme.io/images/ThpXK19.png",
+      "breakdownNotes": "Shield for health boost",
+      "wikiLink": "https://runescape.wiki/w/Merciless_kiteshield",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Deathwarden robe bottom (tier 90)",
+      "label": "deathwardenrobelegst90",
+      "image": "https://img.pvme.io/images/4KirFLg.png",
+      "breakdownNotes": "<span>Equip highest possible live boost armour in this slot. This synergices with the oo'glog pool</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_robe_legs_(tier_90)",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Deathwarden gloves (tier 90)",
+      "label": "deathwardenglovest90",
+      "image": "https://img.pvme.io/images/3WIoKQI.png",
+      "breakdownNotes": "<span>Equip highest possible live boost armour in this slot. This synergices with the oo'glog pool</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_gloves_(tier_90)",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Deathwarden boots (tier 90)",
+      "label": "deathwardenbootst90",
+      "image": "https://img.pvme.io/images/V94Yora.png",
+      "breakdownNotes": "<span>Equip highest possible live boost armour in this slot. This synergices with the oo'glog pool</span>",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_boots_(tier_90)",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Luck of the dwarves",
+      "label": "lotd",
+      "image": "https://img.pvme.io/images/nXXZxpH.png",
+      "breakdownNotes": "For opening things like Vorkath chests or looting Solak",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Deathwarden Nexus",
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "breakdownNotes": "To apply Darkness at bank",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    {
+      "name": "Erethdor's grimoire",
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "breakdownNotes": "So banking doesn't deactivate your grim between kills",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      null,
+      null,
+      null
+    ],
+    "alternativeRelics": [
+      null,
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
