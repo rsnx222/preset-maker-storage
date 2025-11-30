@@ -1,0 +1,328 @@
+{
+  "presetName": "AFK High Level Ranged Devil's Snare",
+  "presetNotes": "<div><img title=\"kalgpouch\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/921410226484301925.png?v=1\" /> uses <img title=\"kalgscroll\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/841409588954923049.png?v=1\" /> with auto fire rate set to 1.</div>",
+  "inventorySlots": [
+    {
+      "name": "Gem bag (upgraded)",
+      "label": "gembag",
+      "image": "https://img.pvme.io/images/ODNlwIc.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gem_bag_(upgraded)",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    {
+      "name": "Off-hand rubber chicken",
+      "label": "offhandrubberchicken",
+      "image": "https://img.pvme.io/images/i8xBWdhhFE.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Off-hand_rubber_chicken",
+      "selected": false,
+      "slot": 5
+    },
+    null,
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Grasping rune pouch (blue)",
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/1JjM2xHyOj.png",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Aggression flask (6)",
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Aggression flask (6)",
+      "label": "aggro6",
+      "image": "https://img.pvme.io/images/nTRsMW1.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Aggression_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Powder of penance",
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
+      "breakdownNotes": "Not needed if using <img title=\"penanceaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505653062565907.webp?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Super restore flask (6)",
+      "label": "restore",
+      "image": "https://img.pvme.io/images/2uy0pnb.png",
+      "breakdownNotes": "Not needed if using <img title=\"penanceaura\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/643505653062565907.webp?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Weapon poison+++ flask (6)",
+      "label": "poison6",
+      "image": "https://img.pvme.io/images/KyZkJoc.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++_flask#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Ancient elven ritual shard",
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Spring cleaner 9001",
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false,
+      "slot": 13
+    },
+    {
+      "name": "Deathwarden Nexus",
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Dwarven siege engine",
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Slayer cape (t)",
+      "label": "slayercape",
+      "image": "https://img.pvme.io/images/B4vyqxv.png",
+      "breakdownNotes": "Teleport to Laniakea and then run west to Devi's Snare.",
+      "wikiLink": "https://runescape.wiki/w/Slayer_cape_(t)",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Cannonballs",
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Kwuarm incense sticks",
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
+      "breakdownNotes": "Optional",
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Enhanced excalibur",
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false,
+      "slot": 5
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Elite Dracolich coif",
+      "label": "edracolichcoif",
+      "image": "https://img.pvme.io/images/S1sjGOu.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Xil",
+      "label": "kalxil",
+      "image": "https://img.pvme.io/images/TNKAuKX.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Xil",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Amulet of zealots",
+      "label": "zealots",
+      "image": "https://img.pvme.io/images/UHRGdEk.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_zealots",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Masterwork bow",
+      "label": "masterworkbow",
+      "image": "https://img.pvme.io/images/54mcx5goSK.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Masterwork_bow",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Elite Dracolich hauberk",
+      "label": "edracolichhauberk",
+      "image": "https://img.pvme.io/images/M5jOHR3.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk",
+      "selected": false,
+      "slot": 2
+    },
+    null,
+    {
+      "name": "Elite Dracolich chaps",
+      "label": "edracolichchaps",
+      "image": "https://img.pvme.io/images/VGqlhJd.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Cinderbane gloves",
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Elite Dracolich boots",
+      "label": "edracolichboots",
+      "image": "https://img.pvme.io/images/07vxUMy.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Reaver's ring",
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Pernix's Quiver (Black)",
+      "label": "pernixquiverblack",
+      "image": "https://img.pvme.io/images/JqXq1zD.png",
+      "breakdownNotes": "Ful arrows",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    {
+      "name": "Scripture of Ful",
+      "label": "scriptureofful",
+      "image": "https://img.pvme.io/images/lPppoD4.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "deathward",
+        "name": "Death Ward",
+        "image": "https://img.pvme.io/images/cFlJmWP.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "furyofthesmall",
+        "name": "Fury of the Small",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "conservationofenergy",
+        "name": "Conservation of Energy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      }
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "kalgdemon",
+        "name": "Kal'gerion Demon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      {
+        "label": "legendpetscav",
+        "name": "Legendary Pet (Scavenge)",
+        "image": "https://img.pvme.io/images/KWIawjY.png",
+        "breakdownNotes": ""
+      }
+    ]
+  }
+}
