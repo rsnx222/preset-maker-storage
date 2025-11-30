@@ -434,5 +434,9 @@
   {
     "presetId": "82ab0bd6-e644-413a-9227-44d342f7185c",
     "presetName": "Bossing preset"
+  },
+  {
+    "presetId": "8ce056bf-65b8-474a-9e3a-8d52bdbf1c4d",
+    "presetName": "Moss Golems AFK Necro"
   }
 ]
