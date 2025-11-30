@@ -430,5 +430,9 @@
   {
     "presetId": "416990bf-cb94-4e01-81b1-99e2a2dd4064",
     "presetName": "AFK High Level Ranged Devil's Snare"
+  },
+  {
+    "presetId": "82ab0bd6-e644-413a-9227-44d342f7185c",
+    "presetName": "Bossing preset"
   }
 ]
