@@ -486,5 +486,9 @@
   {
     "presetId": "296362ef-2e2c-4042-b43a-5cb10a3e57b3",
     "presetName": "melee master clue preset"
+  },
+  {
+    "presetId": "ff462ba7-40fc-4692-a4e6-961dd5e490e9",
+    "presetName": "magic master clue preset"
   }
 ]
