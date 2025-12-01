@@ -478,5 +478,9 @@
   {
     "presetId": "7a25e8cb-1e01-462d-b267-00a9d6d734fe",
     "presetName": "necromancy master clue preset"
+  },
+  {
+    "presetId": "d86deeaf-5a33-4f51-9c91-9235b105e78c",
+    "presetName": "ranged master clue preset"
   }
 ]
