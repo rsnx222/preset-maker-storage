@@ -466,5 +466,9 @@
   {
     "presetId": "4140520d-3e28-44c9-be9f-8dd499fd1014",
     "presetName": "ranged master clue preset"
+  },
+  {
+    "presetId": "bb1b58b0-3c54-4b08-be30-a6cc79c4d07e",
+    "presetName": "Necromancy Master Clue Preset"
   }
 ]
