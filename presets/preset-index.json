@@ -446,5 +446,9 @@
   {
     "presetId": "14047252-026e-45d7-a761-545793dfb268",
     "presetName": "ranged master clue preset"
+  },
+  {
+    "presetId": "a086b9e2-9c34-4d63-badd-198c05ae810f",
+    "presetName": "secondary master clue preset"
   }
 ]
