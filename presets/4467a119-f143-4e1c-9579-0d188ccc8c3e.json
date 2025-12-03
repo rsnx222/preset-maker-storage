@@ -1,0 +1,295 @@
+{
+  "presetName": "Entry-level",
+  "presetNotes": "<div>If available, <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/1097517253056024647.png?v=1\" /> can be used to speed up your run.</div><div><br /></div><div>Lunar armour and Vanquish can be replaced with your best magic armour and weapon.</div>",
+  "inventorySlots": [
+    {
+      "name": "Guthix staff",
+      "label": "gstaff",
+      "image": "https://img.pvme.io/images/EY9Nl4R.png",
+      "breakdownNotes": "Claws of Guthix special attack <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/537340400273195028.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Guthix_staff",
+      "selected": false,
+      "slot": 4
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "<div>Cheap food that doesn't drain adrenaline.</div>",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "<div>Cheap food that doesn't drain adrenaline.</div>",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "<div>Cheap food that doesn't drain adrenaline.</div>",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "<div>Cheap food that doesn't drain adrenaline.</div>",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "<div>Cheap food that doesn't drain adrenaline.</div>",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    {
+      "name": "Enhanced luck potion",
+      "label": "enhluck",
+      "image": "https://img.pvme.io/images/wsYgZsb.png",
+      "breakdownNotes": "<div>Optional.<br /><br /></div>You only need a tier 2 luck enhancer.",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Powerburst of acceleration (4)",
+      "label": "accel4",
+      "image": "https://img.pvme.io/images/I6HFjyN.png",
+      "breakdownNotes": "Optional.<br /><br />Useful for speeding up your runs.",
+      "wikiLink": "https://runescape.wiki/w/Powerburst_of_acceleration#(4)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Air rune",
+      "label": "airrune1k",
+      "image": "https://img.pvme.io/images/IOehGlx.png",
+      "breakdownNotes": "Runes for Air Surge <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/543465115870035999.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Air_rune",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Barrows amulets",
+      "label": "barrowsamulet",
+      "image": "https://img.pvme.io/images/yQugioz.png",
+      "breakdownNotes": "Optional. <br /><br />Simply use on the sarcophagus of the three brothers you are trying to skip.",
+      "wikiLink": "https://runescape.wiki/w/Barrows_amulets",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Infernal puzzle box",
+      "label": "infernalpuzzlebox",
+      "image": "https://img.pvme.io/images/U8R9vg2.png",
+      "breakdownNotes": "Tier 3 stops your adrenaline from draining when outside of combat.<br />",
+      "wikiLink": "https://runescape.wiki/w/Infernal_puzzle_box",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Expensive spices",
+      "label": "spices",
+      "image": "https://img.pvme.io/images/GNzR4sU.png",
+      "breakdownNotes": "Heal an extra 50 life points per piece of food used. <br />",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Super restore (4)",
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "breakdownNotes": "Replace with your best form of prayer restoration.<br />",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Weapon poison+++ (4)",
+      "label": "poison4",
+      "image": "https://img.pvme.io/images/CR06fbn.png",
+      "breakdownNotes": "Replace with your best form of weapon poison.<br />",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Super prayer renewal potion (6)",
+      "label": "prayrenewal",
+      "image": "https://img.pvme.io/images/vSUpqbs.png",
+      "breakdownNotes": "Replace with your best form of prayer renewal.<br />",
+      "wikiLink": "https://runescape.wiki/w/Super_prayer_renewal_potion#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Extreme magic (4)",
+      "label": "extmagic",
+      "image": "https://img.pvme.io/images/SgGHcx0.png",
+      "breakdownNotes": "Replace with your best combat boosting potion.<br />",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Magic#(4)",
+      "selected": false,
+      "slot": 0
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Lunar helm",
+      "label": "lunarhelm",
+      "image": "https://img.pvme.io/images/HYq8kom.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lunar_helm",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Guthix or Saradomin or Zamorak cape",
+      "label": "godcape",
+      "image": "https://img.pvme.io/images/N3KChO6.png",
+      "breakdownNotes": "Your best magic boosting cape works.<br />",
+      "wikiLink": "https://runescape.wiki/w/God_capes",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Salve amulet (e)",
+      "label": "salvee",
+      "image": "https://img.pvme.io/images/qbsFxuG.png",
+      "breakdownNotes": "Increases damage and accuracy by 20% when fighting undead monsters.<br />",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Vanquish (magic)",
+      "label": "vanquish",
+      "image": "https://img.pvme.io/images/eOAuE2e.png",
+      "breakdownNotes": "Can replace with Guthix staff <img title=\"gstaff\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513203008608141314.png?v=1\" /><br />",
+      "wikiLink": "https://runescape.wiki/w/Vanquish_(magic)",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Lunar torso",
+      "label": "lunartorso",
+      "image": "https://img.pvme.io/images/8xVdj2x.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lunar_torso",
+      "selected": false,
+      "slot": 2
+    },
+    null,
+    {
+      "name": "Lunar legs",
+      "label": "lunarlegs",
+      "image": "https://img.pvme.io/images/W36mgq6.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lunar_legs",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Lunar gloves",
+      "label": "lunargloves",
+      "image": "https://img.pvme.io/images/sFyLuKh.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lunar_gloves",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Lunar boots",
+      "label": "lunarboots",
+      "image": "https://img.pvme.io/images/MPEFfj4.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Lunar_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Ring of vigour",
+      "label": "vigour",
+      "image": "https://img.pvme.io/images/3cSIbWx.png",
+      "breakdownNotes": "Saves 10% of adrenaline cost when an ultimate ability or a special attack is used.",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_vigour",
+      "selected": false,
+      "slot": 11
+    },
+    null,
+    null,
+    {
+      "name": "Book of war",
+      "label": "bandosgodbook2",
+      "image": "https://img.pvme.io/images/MKhvXuj.png",
+      "breakdownNotes": "Any god book or elder god scripture works, only for stats.",
+      "wikiLink": "https://runescape.wiki/w/Book_of_war",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      null,
+      null,
+      null
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": []
+  }
+}
