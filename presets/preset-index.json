@@ -488,10 +488,6 @@
     "presetName": "magic master clue preset"
   },
   {
-    "presetId": "a6ecfeb1-f929-4c59-a84c-0c347a414d71",
-    "presetName": "magic master clue preset"
-  },
-  {
     "presetId": "7e3c5844-e015-4dec-9389-d526d558da37",
     "presetName": "melee master clue preset"
   },
@@ -510,5 +506,9 @@
   {
     "presetId": "4467a119-f143-4e1c-9579-0d188ccc8c3e",
     "presetName": "Entry-level"
+  },
+  {
+    "presetId": "a6ecfeb1-f929-4c59-a84c-0c347a414d71",
+    "presetName": "magic master clue preset"
   }
 ]
