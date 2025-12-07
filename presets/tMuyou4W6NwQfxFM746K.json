@@ -1,270 +1,281 @@
 {
   "presetName": "Magic - T95/100",
   "presetNotes": "<div>Pray <img title=\"soulsplit\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/615613924506599497.png?v=1\" /> and <img title=\"torment\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/583429936958930964.png?v=1\" /> or <img title=\"affliction\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/513190158468907008.png?v=1\" /><br /><br /></div>You may adjust your inventory for longer trips.<br />",
-  "equipmentSlots": [
-    {
-      "image": "https://i.imgur.com/xNXHeIN.png",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm",
-      "name": "Cryptbloom helm",
-      "breakdownNotes": "<br />",
-      "label": "cryptbloomhelm"
-    },
-    {
-      "image": "https://i.imgur.com/v4dRHBk.png",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
-      "name": "Igneous Kal-Mej",
-      "breakdownNotes": "",
-      "label": "kalmej"
-    },
-    {
-      "image": "https://i.imgur.com/cUaU7mB.png",
-      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls",
-      "name": "Amulet of souls",
-      "breakdownNotes": "",
-      "label": "aos"
-    },
-    {
-      "image": "https://i.imgur.com/cqCp4Ar.png",
-      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
-      "name": "Roar of Awakening",
-      "breakdownNotes": "",
-      "label": "roarofawakening"
-    },
-    {
-      "image": "https://i.imgur.com/cau9oLa.png",
-      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top",
-      "name": "Virtus robe top",
-      "breakdownNotes": "Using <img title=\"virtustop\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/556586038936600603.png?v=1\" /> over <img title=\"cryptbloombody\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/892819107253194762.png?v=1\" /> fixes an issue with prayer restoration when using <img title=\"penancepowder\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/928221126360969226.png?v=1\" />",
-      "label": "virtustop"
-    },
-    {
-      "image": "https://i.imgur.com/AFimQTj.png",
-      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
-      "name": "Ode to Deceit",
-      "breakdownNotes": "",
-      "label": "odetodeceit"
-    },
-    {
-      "image": "https://i.imgur.com/eEGwTU4.png",
-      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs",
-      "name": "Virtus robe legs",
-      "breakdownNotes": "May use <img title=\"cryptbloomlegs\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/892819107223851058.png?v=1\" /> if taking too much damage.<br />",
-      "label": "virtuslegs"
-    },
-    {
-      "image": "https://i.imgur.com/yHxz8PD.png",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_gloves",
-      "name": "Cryptbloom gloves",
-      "breakdownNotes": "",
-      "label": "cryptbloomgloves"
-    },
-    {
-      "image": "https://i.imgur.com/1MkR1qn.png",
-      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
-      "name": "Cryptbloom boots",
-      "breakdownNotes": "",
-      "label": "cryptbloomboots"
-    },
-    {
-      "image": "https://i.imgur.com/Zs7j4JG.png",
-      "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
-      "name": "Channeller's ring",
-      "breakdownNotes": "",
-      "label": "channellerring"
-    },
-    {
-      "image": "https://i.imgur.com/hvhOeDs.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Blood | Astral | Body | Soul <span> <br />Runes for </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><span> and </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
-      "label": "graspingpouchblack"
-    },
-    null,
-    {
-      "image": "https://i.imgur.com/lPppoD4.png",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
-      "name": "Scripture of Ful",
-      "breakdownNotes": "",
-      "label": "scriptureofful"
-    }
-  ],
   "inventorySlots": [
     {
-      "image": "https://i.imgur.com/af9O4EM.png",
-      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
       "name": "Potion reservoir (inactive)",
+      "label": "potionreservoir2",
+      "image": "https://img.pvme.io/images/af9O4EM.png",
       "breakdownNotes": "<span><br /></span>",
-      "label": "potionreservoir2"
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#inactive",
+      "selected": false,
+      "slot": 0
     },
     {
-      "image": "https://i.imgur.com/nC5xTAR.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
       "name": "Enhanced excalibur",
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
       "breakdownNotes": "In case of an emergency.<br />",
-      "label": "excal"
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false,
+      "slot": 5
     },
     {
-      "image": "https://i.imgur.com/gDZtYb4.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
       "name": "Grasping rune pouch (blue)",
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/1JjM2xHyOj.png",
       "breakdownNotes": "Chaos | Air | Water | Fire<br />Runes for <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /> and <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" /><br />",
-      "label": "graspingpouchblue"
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false,
+      "slot": 9
     },
     null,
     null,
     null,
     null,
     {
-      "image": "https://i.imgur.com/uIF03Iz.png",
-      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
       "name": "Potion reservoir",
+      "label": "potionreservoir",
+      "image": "https://img.pvme.io/images/uIF03Iz.png",
       "breakdownNotes": "",
-      "label": "potionreservoir"
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "selected": false,
+      "slot": 0
     },
     {
-      "image": "https://i.imgur.com/UURvGNW.png",
-      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
       "name": "Ancient elven ritual shard",
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
       "breakdownNotes": "In case of an emergency.<br />",
-      "label": "elvenshard"
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false,
+      "slot": 0
     },
     {
-      "image": "https://i.imgur.com/yrnlR2T.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
       "name": "Grasping rune pouch (pink)",
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/cMrBUILe61.png",
       "breakdownNotes": "Death | Earth | Law | Cosmic <span><br />Runes for </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><span> and </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
-      "label": "graspingpouchpink"
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false,
+      "slot": 9
     },
     null,
     null,
     null,
     null,
     {
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
       "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
       "breakdownNotes": "",
-      "label": "salve"
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
     },
     {
-      "image": "https://i.imgur.com/pjHPdhj.png",
-      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
       "name": "Spring cleaner 9001",
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
       "breakdownNotes": "",
-      "label": "springcleaner"
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false,
+      "slot": 13
     },
     {
-      "image": "https://i.imgur.com/wsYgZsb.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
       "name": "Enhanced luck potion",
+      "label": "enhluck",
+      "image": "https://img.pvme.io/images/wsYgZsb.png",
       "breakdownNotes": "",
-      "label": "enhluck"
+      "wikiLink": "https://runescape.wiki/w/Enhanced_luck_potion",
+      "selected": false,
+      "slot": 0
     },
     null,
     null,
     null,
     null,
     {
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
       "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
       "breakdownNotes": "",
-      "label": "salve"
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
     },
     {
-      "image": "https://i.imgur.com/UVffd75.png",
-      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
       "name": "Holy wrench",
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
       "breakdownNotes": "",
-      "label": "wrench"
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false,
+      "slot": 13
     },
     {
-      "image": "https://i.imgur.com/w6hThUy.png",
-      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
       "name": "Powder of penance",
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
       "breakdownNotes": "<span><br /></span>",
-      "label": "powderofpenance2"
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false,
+      "slot": 0
     },
     null,
     null,
     null,
     null
   ],
+  "equipmentSlots": [
+    {
+      "name": "Cryptbloom helm",
+      "label": "cryptbloomhelm",
+      "image": "https://img.pvme.io/images/zqJhRU7E8N.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Mej",
+      "label": "kalmej",
+      "image": "https://img.pvme.io/images/v4dRHBk.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Amulet of souls",
+      "label": "aos",
+      "image": "https://img.pvme.io/images/cUaU7mB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Roar of Awakening",
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Virtus robe top",
+      "label": "virtustop",
+      "image": "https://img.pvme.io/images/cau9oLa.png",
+      "breakdownNotes": "Using <img title=\"virtustop\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/556586038936600603.png?v=1\" /> over <img title=\"cryptbloombody\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/892819107253194762.png?v=1\" /> fixes an issue with prayer restoration when using <img title=\"penancepowder\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/928221126360969226.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_top",
+      "selected": false,
+      "slot": 2
+    },
+    {
+      "name": "Ode to Deceit",
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Virtus robe legs",
+      "label": "virtuslegs",
+      "image": "https://img.pvme.io/images/eEGwTU4.png",
+      "breakdownNotes": "May use <img title=\"cryptbloomlegs\" class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/892819107223851058.png?v=1\" /> if taking too much damage.<br />",
+      "wikiLink": "https://runescape.wiki/w/Virtus_robe_legs",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Cryptbloom gloves",
+      "label": "cryptbloomgloves",
+      "image": "https://img.pvme.io/images/p6Fwg2MItg.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_gloves",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Cryptbloom boots",
+      "label": "cryptbloomboots",
+      "image": "https://img.pvme.io/images/cXlCjcohsJ.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Channeller's ring",
+      "label": "channellerring",
+      "image": "https://img.pvme.io/images/Zs7j4JG.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Grasping rune pouch (black)",
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hxQ7DadacM.png",
+      "breakdownNotes": "Blood | Astral | Body | Soul <span> <br />Runes for </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090745950258.png?v=1\" /><span> and </span><img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/856635090453135382.png?v=1\" />",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    {
+      "name": "Scripture of Ful",
+      "label": "scriptureofful",
+      "image": "https://img.pvme.io/images/lPppoD4.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "selected": false,
+      "slot": 13
+    }
+  ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
         "label": "conservationofenergy",
-        "energy": 350
+        "name": "Conservation of Energy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
       },
       {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
         "label": "furyofthesmall",
-        "energy": 150
+        "name": "Fury of the Small",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
       },
       {
-        "image": "https://i.imgur.com/flHLvxL.png",
-        "name": "Persistent Rage",
-        "breakdownNotes": "",
-        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
         "label": "persistentrage",
-        "energy": 150
+        "name": "Persistent Rage",
+        "image": "https://img.pvme.io/images/flHLvxL.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
       }
     ],
-    "alternativeRelics": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
+    "alternativeRelics": []
   },
   "familiars": {
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/KWIawjY.png",
+        "label": "legendpetscav",
         "name": "Legendary Pet (Scavenge)",
-        "breakdownNotes": "",
-        "label": "legendpetscav"
+        "image": "https://img.pvme.io/images/KWIawjY.png",
+        "breakdownNotes": ""
       }
-    ]
+    ],
+    "alternativeFamiliars": []
   }
 }
