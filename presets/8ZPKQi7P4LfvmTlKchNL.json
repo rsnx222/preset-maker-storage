@@ -1,392 +1,385 @@
 {
   "presetName": "Melee / Mage Raksha",
   "presetNotes": "",
-  "equipmentSlots": [
+  "inventorySlots": [
     {
-      "label": "vestmenthood",
-      "image": "https://img.pvme.io/images/EVh5SwD.png",
-      "name": "Vestments of havoc hood",
+      "name": "Fractured Staff of Armadyl",
+      "label": "fsoa",
+      "image": "https://img.pvme.io/images/AI12yBk.png",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood"
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "selected": false,
+      "slot": 4
     },
     {
-      "label": "kalzuk",
-      "image": "https://img.pvme.io/images/jcfkzGn.png",
-      "name": "Igneous Kal-Zuk",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk"
+      "name": "Mask of Tumeken's resplendence",
+      "label": "tumekenmask",
+      "image": "https://img.pvme.io/images/pPm6gvnblB.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Mask_of_Tumeken%27s_resplendence",
+      "selected": false,
+      "slot": 1
     },
     {
-      "label": "eofred",
-      "image": "https://img.pvme.io/images/JMC7t7Y.png",
-      "name": "EoF - Dragon claws",
+      "name": "Primal abyssal armour spikes",
+      "label": "primalabyssalarmourspikes",
+      "image": "https://img.pvme.io/images/b6W1JxVhTN.png",
       "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Dragon_claws"
-    },
-    {
-      "label": "zekkil",
-      "image": "https://img.pvme.io/images/aKEG5mi.png",
-      "name": "Ek-ZekKil",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil"
-    },
-    {
-      "label": "vestmentbody",
-      "image": "https://img.pvme.io/images/E5ptfu6.png",
-      "name": "Vestments of havoc robe top",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top"
+      "wikiLink": "https://runescape.wiki/w/Primal_abyssal_armour_spikes",
+      "selected": false,
+      "slot": 9
     },
     null,
     {
-      "label": "vestmentlegs",
-      "image": "https://img.pvme.io/images/mz7GwWF.png",
-      "name": "Vestments of havoc robe bottom",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom"
-    },
-    {
-      "label": "glovesofpassage",
-      "image": "https://img.pvme.io/images/U4Wa7vb.png",
-      "name": "Gloves of passage",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage"
-    },
-    {
-      "label": "vestmentboots",
-      "image": "https://img.pvme.io/images/FarIA5V.png",
-      "name": "Vestments of havoc boots",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots"
-    },
-    {
-      "label": "championring",
-      "image": "https://img.pvme.io/images/cc9GxHt.png",
-      "name": "Champion's ring",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Champion's_ring"
-    },
-    {
-      "label": "pernixquiveryellow",
-      "image": "https://img.pvme.io/images/MCRkOPS.png",
-      "name": "Pernix's Quiver (Yellow)",
-      "breakdownNotes": "Hydrix bakriminel bolts (e) | Jas dragonbane arrows",
-      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver"
-    },
-    {
-      "label": "mahj",
-      "image": "https://img.pvme.io/images/br11PCq.png",
-      "name": "Mahjarrat aura",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura"
-    },
-    {
-      "label": "grim",
-      "image": "https://img.pvme.io/images/eAO0PdY.png",
-      "name": "Erethdor's grimoire",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire"
-    }
-  ],
-  "inventorySlots": [
-    {
-      "label": "fsoa",
-      "image": "https://img.pvme.io/images/AI12yBk.png",
-      "name": "Fractured Staff of Armadyl",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
-      "selected": false
-    },
-    {
-      "label": "tumekenmask",
-      "image": "https://img.pvme.io/images/pPm6gvnblB.png",
-      "name": "Mask of Tumeken's resplendence",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Mask_of_Tumeken%27s_resplendence",
-      "selected": false
-    },
-    {
-      "label": "primalabyssalarmourspikes",
-      "image": "https://img.pvme.io/images/b6W1JxVhTN.png",
-      "name": "Primal abyssal armour spikes",
-      "breakdownNotes": "",
-      "wikiLink": "https://runescape.wiki/w/Primal_abyssal_armour_spikes",
-      "selected": false
-    },
-    {
-      "name": "",
-      "image": "",
-      "label": "",
-      "breakdownNotes": "",
-      "selected": false
-    },
-    {
+      "name": "Blue blubber jellyfish",
       "label": "jelly",
       "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "selected": false,
+      "slot": 0
     },
     {
+      "name": "Blue blubber jellyfish",
       "label": "jelly",
       "image": "https://img.pvme.io/images/RD2LyxF.png",
-      "name": "Blue blubber jellyfish",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Blue_blubber_jellyfish",
-      "selected": false
+      "selected": false,
+      "slot": 0
     },
     {
+      "name": "Vulnerabilty bombs",
       "label": "vuln",
       "image": "https://img.pvme.io/images/2vI8jNm.png",
-      "name": "Vulnerabilty bombs",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
-      "selected": false
+      "selected": false,
+      "slot": 0
     },
     {
+      "name": "Roar of Awakening",
       "label": "roarofawakening",
       "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
-      "name": "Roar of Awakening",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
-      "selected": false
+      "selected": false,
+      "slot": 4
     },
     {
+      "name": "Robe top of Tumeken's resplendence",
       "label": "tumekenrobetop",
       "image": "https://img.pvme.io/images/pNqN5aiYwr.png",
-      "name": "Robe top of Tumeken's resplendence",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Robe_top_of_Tumeken%27s_resplendence",
-      "selected": false
+      "selected": false,
+      "slot": 2
     },
     {
+      "name": "Gloves of Tumeken's resplendence",
       "label": "tumekengloves",
       "image": "https://img.pvme.io/images/T28B23e7Kl.png",
-      "name": "Gloves of Tumeken's resplendence",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Gloves_of_Tumeken%27s_resplendence",
-      "selected": false
+      "selected": false,
+      "slot": 6
     },
+    null,
     {
-      "name": "",
-      "image": "",
-      "label": "",
-      "breakdownNotes": "",
-      "selected": false
-    },
-    {
+      "name": "Super Saradomin brew flask (6)",
       "label": "sbrew",
       "image": "https://img.pvme.io/images/xjiZl4Y.png",
-      "name": "Super Saradomin brew flask (6)",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
-      "selected": false
+      "selected": false,
+      "slot": 0
     },
     {
+      "name": "Super Saradomin brew flask (6)",
       "label": "sbrew",
       "image": "https://img.pvme.io/images/xjiZl4Y.png",
-      "name": "Super Saradomin brew flask (6)",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Super_Saradomin_brew_flask#(6)",
-      "selected": false
+      "selected": false,
+      "slot": 0
     },
     {
+      "name": "Grasping rune pouch (green)",
       "label": "graspingpouchgreen",
       "image": "https://img.pvme.io/images/9F4FESqkFm.png",
-      "name": "Grasping rune pouch (green)",
       "breakdownNotes": "Time | Nature | Air | Earth",
       "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
-      "selected": false
+      "selected": false,
+      "slot": 9
     },
     {
+      "name": "Ode to Deceit",
       "label": "odetodeceit",
       "image": "https://img.pvme.io/images/8WKmBCfI34.png",
-      "name": "Ode to Deceit",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
-      "selected": false
+      "selected": false,
+      "slot": 5
     },
     {
+      "name": "Robe bottom of Tumeken's resplendence",
       "label": "tumekenrobebottom",
       "image": "https://img.pvme.io/images/ozNOXe1k1t.png",
-      "name": "Robe bottom of Tumeken's resplendence",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_Tumeken%27s_resplendence",
-      "selected": false
+      "selected": false,
+      "slot": 3
     },
     {
+      "name": "Wyvern crossbow",
       "label": "wyverncbow",
       "image": "https://img.pvme.io/images/YGlkhDV.png",
-      "name": "Wyvern crossbow",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Wyvern_crossbow",
-      "selected": false
+      "selected": false,
+      "slot": 4
     },
+    null,
     {
-      "name": "",
-      "image": "",
-      "label": "",
-      "breakdownNotes": "",
-      "selected": false
-    },
-    {
+      "name": "Super restore flask (6)",
       "label": "restore",
       "image": "https://img.pvme.io/images/2uy0pnb.png",
-      "name": "Super restore flask (6)",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Super_restore_flask#(6)",
-      "selected": false
+      "selected": false,
+      "slot": 0
     },
     {
+      "name": "Powerburst of vitality (4)",
       "label": "vitality4",
       "image": "https://img.pvme.io/images/n9C7iSA.png",
-      "name": "Powerburst of vitality (4)",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Powerburst_of_vitality#(4)",
-      "selected": false
+      "selected": false,
+      "slot": 0
     },
     {
+      "name": "Grasping rune pouch (blue)",
       "label": "graspingpouchblue",
       "image": "https://img.pvme.io/images/1JjM2xHyOj.png",
-      "name": "Grasping rune pouch (blue)",
       "breakdownNotes": "Chaos | Air | Water | Fire",
       "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
-      "selected": false
+      "selected": false,
+      "slot": 9
     },
     {
+      "name": "Channeller's ring",
       "label": "channellerring",
       "image": "https://img.pvme.io/images/Zs7j4JG.png",
-      "name": "Channeller's ring",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
-      "selected": false
+      "selected": false,
+      "slot": 11
     },
     {
+      "name": "Boots of Tumeken's resplendence",
       "label": "tumekenboots",
       "image": "https://img.pvme.io/images/OBTrhWAa2M.png",
-      "name": "Boots of Tumeken's resplendence",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Boots_of_Tumeken%27s_resplendence",
-      "selected": false
+      "selected": false,
+      "slot": 7
     },
     {
+      "name": "Enhanced excalibur",
       "label": "excal",
       "image": "https://img.pvme.io/images/nC5xTAR.png",
-      "name": "Enhanced excalibur",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
-      "selected": false
+      "selected": false,
+      "slot": 5
     },
     {
+      "name": "Elder overload salve (6)",
       "label": "salve",
       "image": "https://img.pvme.io/images/9GP63eS.png",
-      "name": "Elder overload salve (6)",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
-      "selected": false
+      "selected": false,
+      "slot": 0
     },
     {
+      "name": "Adrenaline renewal potion (4)",
       "label": "renewal4",
       "image": "https://img.pvme.io/images/IqAjWRF.png",
-      "name": "Adrenaline renewal potion (4)",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Adrenaline_renewal_potion#(4)",
-      "selected": false
+      "selected": false,
+      "slot": 0
     },
     {
+      "name": "Deathwarden Nexus",
       "label": "deathwardennexus",
       "image": "https://img.pvme.io/images/hd7YvA4.png",
-      "name": "Deathwarden Nexus",
       "breakdownNotes": "",
       "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
-      "selected": false
+      "selected": false,
+      "slot": 9
     },
     {
+      "name": "Grasping rune pouch (black)",
       "label": "graspingpouchblack",
       "image": "https://img.pvme.io/images/hxQ7DadacM.png",
-      "name": "Grasping rune pouch (black)",
       "breakdownNotes": "Blood | Astral | Body | Soul",
       "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "selected": false
+      "selected": false,
+      "slot": 9
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Vestments of havoc hood",
+      "label": "vestmenthood",
+      "image": "https://img.pvme.io/images/EVh5SwD.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "EoF - Dragon claws",
+      "label": "eofred",
+      "image": "https://img.pvme.io/images/JMC7t7Y.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_claws",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Ek-ZekKil",
+      "label": "zekkil",
+      "image": "https://img.pvme.io/images/aKEG5mi.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Vestments of havoc robe top",
+      "label": "vestmentbody",
+      "image": "https://img.pvme.io/images/E5ptfu6.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "selected": false,
+      "slot": 2
+    },
+    null,
+    {
+      "name": "Vestments of havoc robe bottom",
+      "label": "vestmentlegs",
+      "image": "https://img.pvme.io/images/mz7GwWF.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Gloves of passage",
+      "label": "glovesofpassage",
+      "image": "https://img.pvme.io/images/U4Wa7vb.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Vestments of havoc boots",
+      "label": "vestmentboots",
+      "image": "https://img.pvme.io/images/FarIA5V.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Champion's ring",
+      "label": "championring",
+      "image": "https://img.pvme.io/images/cc9GxHt.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Champion's_ring",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Pernix's Quiver (Yellow)",
+      "label": "pernixquiveryellow",
+      "image": "https://img.pvme.io/images/MCRkOPS.png",
+      "breakdownNotes": "Hydrix bakriminel bolts (e) | Jas dragonbane arrows",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Mahjarrat aura",
+      "label": "mahj",
+      "image": "https://img.pvme.io/images/br11PCq.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Mahjarrat_aura",
+      "selected": false,
+      "slot": 8
+    },
+    {
+      "name": "Erethdor's grimoire",
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "selected": false,
+      "slot": 13
     }
   ],
   "relics": {
     "primaryRelics": [
       {
         "label": "conservationofenergy",
-        "image": "https://img.pvme.io/images/Gfdc9u6.png",
         "name": "Conservation of Energy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
         "breakdownNotes": "",
-        "energy": 350,
-        "description": "After using an ultimate ability, you will regain 10% adrenaline."
+        "energy": 0,
+        "description": ""
       },
       {
         "label": "berserkersfury",
-        "image": "https://img.pvme.io/images/xXWYCHG.png",
         "name": "Berserkers Fury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
         "breakdownNotes": "",
-        "energy": 250,
-        "description": "Deal up to +5.5% damage (all styles) the lower your current life points are below max. (Doesn't stack with Dharok's set effect.)"
+        "energy": 0,
+        "description": ""
       },
       {
         "label": "fontoflife",
-        "image": "https://img.pvme.io/images/7e6Juey.png",
         "name": "Font of Life",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
         "breakdownNotes": "",
-        "energy": 50,
-        "description": "Increases maximum health by 500."
+        "energy": 0,
+        "description": ""
       }
     ],
-    "alternativeRelics": [
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      }
-    ]
+    "alternativeRelics": []
   },
   "familiars": {
     "primaryFamiliars": [
       {
         "label": "kalgdemon",
-        "image": "https://img.pvme.io/images/4oLwaZJ.png",
         "name": "Kal'gerion Demon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
         "breakdownNotes": ""
       }
     ],
-    "alternativeFamiliars": [
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      },
-      {
-        "name": "",
-        "image": "",
-        "label": "",
-        "breakdownNotes": ""
-      }
-    ]
+    "alternativeFamiliars": []
   }
 }
