@@ -1,136 +1,53 @@
 {
-  "presetName": "",
+  "presetName": "Low Effort Kerapac (Magic)",
   "presetNotes": "",
-  "equipmentSlots": [
-    {
-      "image": "https://i.imgur.com/iPtkkKN.png",
-      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask",
-      "name": "Elite tectonic mask",
-      "breakdownNotes": "",
-      "label": "etectohelm"
-    },
-    {
-      "image": "https://i.imgur.com/v4dRHBk.png",
-      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
-      "name": "Igneous Kal-Mej",
-      "breakdownNotes": "",
-      "label": "kalmej"
-    },
-    {
-      "image": "https://i.imgur.com/UB0lAK8.png",
-      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
-      "name": "Essence of Finality amulet",
-      "breakdownNotes": "",
-      "label": "eof"
-    },
-    {
-      "image": "https://i.imgur.com/cqCp4Ar.png",
-      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
-      "name": "Roar of Awakening",
-      "breakdownNotes": "",
-      "label": "roarofawakening"
-    },
-    {
-      "image": "https://i.imgur.com/NftWcLQ.png",
-      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top",
-      "name": "Elite tectonic robe top",
-      "breakdownNotes": "",
-      "label": "etectotop"
-    },
-    {
-      "image": "https://i.imgur.com/AFimQTj.png",
-      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
-      "name": "Ode to Deceit",
-      "breakdownNotes": "",
-      "label": "odetodeceit"
-    },
-    {
-      "image": "https://i.imgur.com/0TXtWf2.png",
-      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom",
-      "name": "Elite tectonic robe bottom",
-      "breakdownNotes": "",
-      "label": "etectolegs"
-    },
-    {
-      "image": "https://i.imgur.com/LutTgCH.png",
-      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
-      "name": "Cinderbane gloves",
-      "breakdownNotes": "",
-      "label": "cinder"
-    },
-    {
-      "image": "https://i.imgur.com/KUGqEdN.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_blast_diffusion_boots",
-      "name": "Enhanced blast diffusion boots",
-      "breakdownNotes": "",
-      "label": "enhancedblastdiff"
-    },
-    {
-      "image": "https://i.imgur.com/Zs7j4JG.png",
-      "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
-      "name": "Channeller's ring",
-      "breakdownNotes": "",
-      "label": "channellerring"
-    },
-    {
-      "image": "https://i.imgur.com/hvhOeDs.png",
-      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
-      "name": "Grasping rune pouch (black)",
-      "breakdownNotes": "Water I Blood I Soul - For Incite Fear",
-      "label": "graspingpouchblack"
-    },
-    {
-      "image": "https://i.imgur.com/JigaLBL.png",
-      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura",
-      "name": "Vampyrism aura",
-      "breakdownNotes": "",
-      "label": "vampaura"
-    },
-    {
-      "image": "https://i.imgur.com/lPppoD4.png",
-      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
-      "name": "Scripture of Ful",
-      "breakdownNotes": "",
-      "label": "scriptureofful"
-    }
-  ],
   "inventorySlots": [
     {
-      "image": "https://i.imgur.com/uIF03Iz.png",
-      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
       "name": "Potion reservoir",
+      "label": "potionreservoir",
+      "image": "https://img.pvme.io/images/uIF03Iz.png",
       "breakdownNotes": "elder overload salve",
-      "label": "potionreservoir"
+      "wikiLink": "https://runescape.wiki/w/Potion_reservoir#active",
+      "selected": false,
+      "slot": 0
     },
     {
-      "image": "https://i.imgur.com/9GP63eS.png",
-      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
       "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
       "breakdownNotes": "",
-      "label": "salve"
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
     },
     {
-      "image": "https://i.imgur.com/CR06fbn.png",
-      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
       "name": "Weapon poison+++ (4)",
+      "label": "poison4",
+      "image": "https://img.pvme.io/images/CR06fbn.png",
       "breakdownNotes": "",
-      "label": "poison4"
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "selected": false,
+      "slot": 0
     },
     {
-      "image": "https://i.imgur.com/2vI8jNm.png",
-      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
       "name": "Vulnerabilty bombs",
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
       "breakdownNotes": "",
-      "label": "vuln"
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false,
+      "slot": 0
     },
     null,
     null,
     {
-      "image": "https://i.imgur.com/nC5xTAR.png",
-      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
       "name": "Enhanced excalibur",
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
       "breakdownNotes": "Cast when under 5k prior to next kill",
-      "label": "excal"
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false,
+      "slot": 5
     },
     null,
     null,
@@ -139,48 +56,60 @@
     null,
     null,
     {
-      "image": "https://i.imgur.com/UURvGNW.png",
-      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
       "name": "Ancient elven ritual shard",
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
       "breakdownNotes": "Helps maintain prayer for T99 Curses",
-      "label": "elvenshard"
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false,
+      "slot": 0
     },
     {
-      "image": "https://i.imgur.com/LfpiRjg.png",
-      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
       "name": "Lantadyme incense sticks",
+      "label": "lantasticks",
+      "image": "https://img.pvme.io/images/LfpiRjg.png",
       "breakdownNotes": "",
-      "label": "lantasticks"
+      "wikiLink": "https://runescape.wiki/w/Lantadyme_incense_sticks",
+      "selected": false,
+      "slot": 0
     },
     {
-      "image": "https://i.imgur.com/Ba7yju8.png",
-      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
       "name": "Kwuarm incense sticks",
+      "label": "kwuarmsticks",
+      "image": "https://img.pvme.io/images/Ba7yju8.png",
       "breakdownNotes": "",
-      "label": "kwuarmsticks"
+      "wikiLink": "https://runescape.wiki/w/Kwuarm_incense_sticks",
+      "selected": false,
+      "slot": 0
     },
     {
-      "image": "https://i.imgur.com/w6hThUy.png",
-      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
       "name": "Powder of penance",
+      "label": "powderofpenance2",
+      "image": "https://img.pvme.io/images/w6hThUy.png",
       "breakdownNotes": "",
-      "label": "powderofpenance2"
+      "wikiLink": "https://runescape.wiki/w/Powder_of_penance",
+      "selected": false,
+      "slot": 0
     },
     {
-      "image": "https://i.imgur.com/BQXFPFu.png",
-      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
       "name": "Binding contract (blood reaver)",
+      "label": "reaver",
+      "image": "https://img.pvme.io/images/BQXFPFu.png",
       "breakdownNotes": "",
-      "label": "reaver"
+      "wikiLink": "https://runescape.wiki/w/Binding_contract_(blood_reaver)",
+      "selected": false,
+      "slot": 0
     },
     null,
     null,
     {
-      "image": "https://i.imgur.com/qocLc4k.png",
-      "wikiLink": "https://runescape.wiki/w/Sailfish",
       "name": "Sailfish",
+      "label": "sailfish",
+      "image": "https://img.pvme.io/images/qocLc4k.png",
       "breakdownNotes": "",
-      "label": "sailfish"
+      "wikiLink": "https://runescape.wiki/w/Sailfish",
+      "selected": false,
+      "slot": 0
     },
     null,
     null,
@@ -189,89 +118,172 @@
     null,
     null,
     {
-      "image": "https://i.imgur.com/hd7YvA4.png",
-      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
       "name": "Deathwarden Nexus",
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
       "breakdownNotes": "Ectoplasm I Spirit I Bone I Flesh I Miasma - For Darkness Cast every 12 minutes",
-      "label": "deathwardennexus"
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "selected": false,
+      "slot": 9
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Elite tectonic mask",
+      "label": "etectohelm",
+      "image": "https://img.pvme.io/images/iPtkkKN.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_mask",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Mej",
+      "label": "kalmej",
+      "image": "https://img.pvme.io/images/v4dRHBk.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Essence of Finality amulet",
+      "label": "eof",
+      "image": "https://img.pvme.io/images/UB0lAK8.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Essence_of_Finality_amulet",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Roar of Awakening",
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Elite tectonic robe top",
+      "label": "etectotop",
+      "image": "https://img.pvme.io/images/NftWcLQ.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_top",
+      "selected": false,
+      "slot": 2
+    },
+    {
+      "name": "Ode to Deceit",
+      "label": "odetodeceit",
+      "image": "https://img.pvme.io/images/8WKmBCfI34.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ode_to_Deceit",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Elite tectonic robe bottom",
+      "label": "etectolegs",
+      "image": "https://img.pvme.io/images/0TXtWf2.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_tectonic_robe_bottom",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Cinderbane gloves",
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Enhanced blast diffusion boots",
+      "label": "enhancedblastdiff",
+      "image": "https://img.pvme.io/images/KUGqEdN.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_blast_diffusion_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Channeller's ring",
+      "label": "channellerring",
+      "image": "https://img.pvme.io/images/Zs7j4JG.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Grasping rune pouch (black)",
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hxQ7DadacM.png",
+      "breakdownNotes": "Water I Blood I Soul - For Incite Fear",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Vampyrism aura",
+      "label": "vampaura",
+      "image": "https://img.pvme.io/images/JigaLBL.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vampyrism_aura",
+      "selected": false,
+      "slot": 8
+    },
+    {
+      "name": "Scripture of Ful",
+      "label": "scriptureofful",
+      "image": "https://img.pvme.io/images/lPppoD4.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Ful",
+      "selected": false,
+      "slot": 13
     }
   ],
   "relics": {
     "primaryRelics": [
       {
-        "image": "https://i.imgur.com/Gfdc9u6.png",
-        "name": "Conservation of Energy",
-        "breakdownNotes": "",
-        "description": "After using an ultimate ability, you will regain 10% adrenaline.",
         "label": "conservationofenergy",
-        "energy": 350
+        "name": "Conservation of Energy",
+        "image": "https://i.imgur.com/Gfdc9u6.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
       },
       {
-        "image": "https://i.imgur.com/flHLvxL.png",
-        "name": "Persistent Rage",
-        "breakdownNotes": "",
-        "description": "Your adrenaline now generates outside of combat at a rate of 5% every 1.2 seconds, instead of having it drained.",
         "label": "persistentrage",
-        "energy": 150
+        "name": "Persistent Rage",
+        "image": "https://i.imgur.com/flHLvxL.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
       },
       {
-        "image": "https://i.imgur.com/W87TO3O.png",
-        "name": "Fury of the Small",
-        "breakdownNotes": "",
-        "description": "All adrenaline generating basic abilities generate +1% adrenaline.",
         "label": "furyofthesmall",
-        "energy": 150
+        "name": "Fury of the Small",
+        "image": "https://i.imgur.com/W87TO3O.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
       }
     ],
-    "alternativeRelics": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ]
+    "alternativeRelics": []
   },
   "familiars": {
-    "alternativeFamiliars": [
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      },
-      {
-        "image": "",
-        "name": "",
-        "breakdownNotes": "",
-        "label": ""
-      }
-    ],
     "primaryFamiliars": [
       {
-        "image": "https://i.imgur.com/sxnDQng.png",
+        "label": "bloodreaver",
         "name": "Blood Reaver",
-        "breakdownNotes": "",
-        "label": "bloodreaver"
+        "image": "https://i.imgur.com/sxnDQng.png",
+        "breakdownNotes": ""
       }
-    ]
+    ],
+    "alternativeFamiliars": []
   }
 }
