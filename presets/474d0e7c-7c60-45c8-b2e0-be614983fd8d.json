@@ -1,0 +1,291 @@
+{
+  "presetName": "Flesh-hatcher Mhekarnahz Basic",
+  "presetNotes": "<br />",
+  "inventorySlots": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Shark",
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Super restore (4)",
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Super restore (4)",
+      "label": "restore4",
+      "image": "https://img.pvme.io/images/9GwrVt6.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Super_restore#(4)",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Shark",
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Extreme necromancy (4)",
+      "label": "extnecro",
+      "image": "https://img.pvme.io/images/ioK95Z8.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Extreme_necromancy#(4)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Extreme defence (4)",
+      "label": "extdefence",
+      "image": "https://img.pvme.io/images/DUhcOW3.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Extreme_Defence#(4)",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Green blubber jellyfish",
+      "label": "greenjelly",
+      "image": "https://img.pvme.io/images/I8vuFeB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Green_blubber_jellyfish",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Shark",
+      "label": "shark",
+      "image": "https://img.pvme.io/images/qSP1R78.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Shark",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Enhanced excalibur",
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Expensive spices",
+      "label": "spices",
+      "image": "https://img.pvme.io/images/GNzR4sU.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Expensive_spices",
+      "selected": false,
+      "slot": 10
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Deathdealer hood (tier 70)",
+      "label": "deathdealerhoodt70",
+      "image": "https://img.pvme.io/images/KkSmljc.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_hood_(tier_70)",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Cape of legends",
+      "label": "capeoflegends",
+      "image": "https://img.pvme.io/images/8Y1U7r0.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Cape_of_legends",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Amulet of glory",
+      "label": "amuletofglory",
+      "image": "https://img.pvme.io/images/gawFoAi.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_glory",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Death guard (tier 70)",
+      "label": "deathguardt70",
+      "image": "https://img.pvme.io/images/IjI79KW.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Death_guard_(tier_70)",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Deathdealer robe top (tier 70)",
+      "label": "deathdealerrobetopt70",
+      "image": "https://img.pvme.io/images/Yf8CzMa.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_top_(tier_70)",
+      "selected": false,
+      "slot": 2
+    },
+    {
+      "name": "Skull lantern (tier 70)",
+      "label": "skulllanternt70",
+      "image": "https://img.pvme.io/images/yhYsPpi.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Skull_lantern_(tier_70)",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Deathdealer robe bottom (tier 70)",
+      "label": "deathdealerrobebottomt70",
+      "image": "https://img.pvme.io/images/7WKqA5L.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_robe_bottom_(tier_70)",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Deathdealer gloves (tier 70)",
+      "label": "deathdealerglovest70",
+      "image": "https://img.pvme.io/images/lksnw1R.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_gloves_(tier_70)",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Deathdealer boots (tier 70)",
+      "label": "deathdealerbootst70",
+      "image": "https://img.pvme.io/images/xxuUiUI.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Deathdealer_boots_(tier_70)",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Ring of Fortune",
+      "label": "ringoffortune",
+      "image": "https://img.pvme.io/images/aKOEeRs.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Ring_of_Fortune",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Deathwarden Nexus",
+      "label": "deathwardennexus",
+      "image": "https://img.pvme.io/images/hd7YvA4.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Deathwarden_nexus",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    {
+      "name": "Underworld Grimoire 2",
+      "label": "underworldgrimoire2",
+      "image": "https://img.pvme.io/images/ITR8cN1.png",
+      "breakdownNotes": "Any offensive pocket slot works.",
+      "wikiLink": "https://runescape.wiki/w/Underworld_Grimoire_2",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "fontoflife",
+        "name": "Font of Life",
+        "image": "https://i.imgur.com/7e6Juey.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null,
+      null
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "bunyip",
+        "name": "Bunyip",
+        "image": "https://i.imgur.com/hpjldw8.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
