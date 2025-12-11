@@ -1,0 +1,225 @@
+{
+  "presetName": "Mhekarnahz Ranged Instance Camp",
+  "presetNotes": "",
+  "inventorySlots": [
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Vulnerabilty bombs",
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blessed flask",
+      "label": "blessed",
+      "image": "https://img.pvme.io/images/FVmxMkH.png",
+      "breakdownNotes": "Any method of restoring prayer",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Elite Dracolich coif",
+      "label": "edracolichcoif",
+      "image": "https://img.pvme.io/images/S1sjGOu.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_coif",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "EoF - Seren godbow",
+      "label": "eofblue",
+      "image": "https://img.pvme.io/images/zAiXkJn.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Seren_godbow",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Bow of the Last Guardian",
+      "label": "bolg",
+      "image": "https://img.pvme.io/images/GkhQHSj.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Bow_of_the_Last_Guardian",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Elite Dracolich hauberk",
+      "label": "edracolichhauberk",
+      "image": "https://img.pvme.io/images/M5jOHR3.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_hauberk",
+      "selected": false,
+      "slot": 2
+    },
+    null,
+    {
+      "name": "Elite Dracolich chaps",
+      "label": "edracolichchaps",
+      "image": "https://img.pvme.io/images/VGqlhJd.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_chaps",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Elite Dracolich vambraces",
+      "label": "edracolichvambs",
+      "image": "https://img.pvme.io/images/zJ2WxLa.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_vambraces",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Elite Dracolich boots",
+      "label": "edracolichboots",
+      "image": "https://img.pvme.io/images/07vxUMy.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elite_Dracolich_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Stalker's ring",
+      "label": "stalkerring",
+      "image": "https://img.pvme.io/images/xRj7mKb.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Stalker's_ring",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Pernix's Quiver (Black)",
+      "label": "pernixquiverblack",
+      "image": "https://img.pvme.io/images/JqXq1zD.png",
+      "breakdownNotes": "Ful arrows | Wen arrows",
+      "wikiLink": "https://runescape.wiki/w/Pernix's_Quiver",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Reckless aura",
+      "label": "reckless",
+      "image": "https://img.pvme.io/images/FZ59xZK.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Reckless_aura",
+      "selected": false,
+      "slot": 8
+    },
+    {
+      "name": "Erethdor's grimoire",
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "name": "Conservation of Energy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "berserkersfury",
+        "name": "Berserkers Fury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "fontoflife",
+        "name": "Font of Life",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      }
+    ],
+    "alternativeRelics": [
+      null,
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "kalgdemon",
+        "name": "Kal'gerion Demon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
