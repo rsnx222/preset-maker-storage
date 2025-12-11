@@ -1,0 +1,241 @@
+{
+  "presetName": "Mhekarnahz Magic Instance Camp",
+  "presetNotes": "",
+  "inventorySlots": [
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Vulnerabilty bombs",
+      "label": "vuln",
+      "image": "https://img.pvme.io/images/2vI8jNm.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vulnerabilty_bombs",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Grasping rune pouch (pink)",
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/cMrBUILe61.png",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Elder overload salve (6)",
+      "label": "salve",
+      "image": "https://img.pvme.io/images/9GP63eS.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload_salve#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Blessed flask",
+      "label": "blessed",
+      "image": "https://img.pvme.io/images/FVmxMkH.png",
+      "breakdownNotes": "Any method of restoring prayer",
+      "wikiLink": "https://runescape.wiki/w/Blessed_flask",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Grasping rune pouch (blue)",
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/1JjM2xHyOj.png",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Mask of Tumeken's resplendence",
+      "label": "tumekenmask",
+      "image": "https://img.pvme.io/images/pPm6gvnblB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Mask_of_Tumeken%27s_resplendence",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "EoF - Guthix staff / Zamorak staff",
+      "label": "eofpurple",
+      "image": "https://img.pvme.io/images/nu7QSbh.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Guthix_staff",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Fractured Staff of Armadyl",
+      "label": "fsoa",
+      "image": "https://img.pvme.io/images/AI12yBk.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Fractured_Staff_of_Armadyl",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Robe top of Tumeken's resplendence",
+      "label": "tumekenrobetop",
+      "image": "https://img.pvme.io/images/pNqN5aiYwr.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Robe_top_of_Tumeken%27s_resplendence",
+      "selected": false,
+      "slot": 2
+    },
+    null,
+    {
+      "name": "Robe bottom of Tumeken's resplendence",
+      "label": "tumekenrobebottom",
+      "image": "https://img.pvme.io/images/ozNOXe1k1t.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Robe_bottom_of_Tumeken%27s_resplendence",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Gloves of Tumeken's resplendence",
+      "label": "tumekengloves",
+      "image": "https://img.pvme.io/images/T28B23e7Kl.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_Tumeken%27s_resplendence",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Boots of Tumeken's resplendence",
+      "label": "tumekenboots",
+      "image": "https://img.pvme.io/images/OBTrhWAa2M.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Boots_of_Tumeken%27s_resplendence",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Channeller's ring",
+      "label": "channellerring",
+      "image": "https://img.pvme.io/images/Zs7j4JG.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Channeller's_ring",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Grasping rune pouch (red)",
+      "label": "graspingpouchred",
+      "image": "https://img.pvme.io/images/t6fjalFfk9.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(red)",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Maniacal aura",
+      "label": "mani",
+      "image": "https://img.pvme.io/images/5fIllNu.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Maniacal_aura",
+      "selected": false,
+      "slot": 8
+    },
+    {
+      "name": "Erethdor's grimoire",
+      "label": "grim",
+      "image": "https://img.pvme.io/images/eAO0PdY.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Erethdor's_grimoire",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "name": "Conservation of Energy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "berserkersfury",
+        "name": "Berserkers Fury",
+        "image": "https://img.pvme.io/images/xXWYCHG.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "fontoflife",
+        "name": "Font of Life",
+        "image": "https://img.pvme.io/images/7e6Juey.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      }
+    ],
+    "alternativeRelics": [
+      null,
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "kalgdemon",
+        "name": "Kal'gerion Demon",
+        "image": "https://img.pvme.io/images/4oLwaZJ.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
