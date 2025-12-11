@@ -1,0 +1,228 @@
+{
+  "presetName": "Barrows - Melee",
+  "presetNotes": "No aura is required. ",
+  "inventorySlots": [
+    {
+      "name": "Elder overload potion (6)",
+      "label": "ovl",
+      "image": "https://img.pvme.io/images/DGw6F36.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Elder overload potion (6)",
+      "label": "ovl",
+      "image": "https://img.pvme.io/images/DGw6F36.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Elder_overload#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Dragon battleaxe",
+      "label": "dba",
+      "image": "https://img.pvme.io/images/hZGOmkB.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dragon_battleaxe",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Spade",
+      "label": "spade",
+      "image": "https://img.pvme.io/images/3Hzb1UG.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spade",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Soul rune",
+      "label": "soulrune",
+      "image": "https://img.pvme.io/images/hXWHlfs.png",
+      "breakdownNotes": "To release stall if you accidently stall on karils.",
+      "wikiLink": "https://runescape.wiki/w/Soul_rune",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Chaos rune",
+      "label": "chaosrune",
+      "image": "https://img.pvme.io/images/VmHx4CQ.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Chaos_rune",
+      "selected": false,
+      "slot": 0
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Vestments of havoc hood",
+      "label": "vestmenthood",
+      "image": "https://img.pvme.io/images/EVh5SwD.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_hood",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Zuk",
+      "label": "kalzuk",
+      "image": "https://img.pvme.io/images/jcfkzGn.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Zuk",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Salve amulet (e)",
+      "label": "salvee",
+      "image": "https://img.pvme.io/images/qbsFxuG.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Salve_amulet_(e)",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Ek-ZekKil",
+      "label": "zekkil",
+      "image": "https://img.pvme.io/images/aKEG5mi.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ek-ZekKil",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Vestments of havoc robe top",
+      "label": "vestmentbody",
+      "image": "https://img.pvme.io/images/E5ptfu6.png",
+      "breakdownNotes": "biting 4 ",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_top",
+      "selected": false,
+      "slot": 2
+    },
+    null,
+    {
+      "name": "Vestments of havoc robe bottom",
+      "label": "vestmentlegs",
+      "image": "https://img.pvme.io/images/mz7GwWF.png",
+      "breakdownNotes": "undead, mobile",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_robe_bottom",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Gloves of passage",
+      "label": "glovesofpassage",
+      "image": "https://img.pvme.io/images/U4Wa7vb.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Gloves_of_passage",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Vestments of havoc boots",
+      "label": "vestmentboots",
+      "image": "https://img.pvme.io/images/FarIA5V.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Vestments_of_havoc_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Luck of the dwarves",
+      "label": "lotd",
+      "image": "https://img.pvme.io/images/nXXZxpH.png",
+      "breakdownNotes": "Reavers ring if ring swapping.",
+      "wikiLink": "https://runescape.wiki/w/Luck_of_the_dwarves",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Grasping rune pouch (green)",
+      "label": "graspingpouchgreen",
+      "image": "https://img.pvme.io/images/9F4FESqkFm.png",
+      "breakdownNotes": "<span>Nodon spike harness if you have it.</span>",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(green)",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    {
+      "name": "Underworld Grimoire 4",
+      "label": "underworldgrimoire4",
+      "image": "https://img.pvme.io/images/CUl6DIOOhs.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Underworld_Grimoire_4",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "name": "Conservation of Energy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "furyofthesmall",
+        "name": "Fury of the Small",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null
+    ],
+    "alternativeRelics": [
+      {
+        "label": "shadowsgrace",
+        "name": "Shadows Grace",
+        "image": "https://img.pvme.io/images/sxdlwRm.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null,
+      null
+    ]
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      null
+    ],
+    "alternativeFamiliars": [
+      null,
+      null,
+      null
+    ]
+  }
+}
