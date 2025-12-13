@@ -1,0 +1,290 @@
+{
+  "presetName": "AFK Moss Golems (Oceanic Components)",
+  "presetNotes": "1. This preset assumes that the prayer has their slayer helmet <img class=\"disc-emoji\" src=\"https://cdn.discordapp.com/emojis/798285340460449792.png?v=1\" /> on the Anachronia helmet stand",
+  "inventorySlots": [
+    {
+      "name": "Holy aggroverload (6)",
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Holy aggroverload (6)",
+      "label": "holyaggroverload",
+      "image": "https://img.pvme.io/images/x2G1m0Q.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_aggroverload#(6)",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Holy wrench",
+      "label": "wrench",
+      "image": "https://img.pvme.io/images/UVffd75.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Holy_wrench",
+      "selected": false,
+      "slot": 13
+    },
+    {
+      "name": "Grasping rune pouch (black)",
+      "label": "graspingpouchblack",
+      "image": "https://img.pvme.io/images/hxQ7DadacM.png",
+      "breakdownNotes": "Blood | Astral | Body | Soul",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(black)",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Weapon poison+++ (4)",
+      "label": "poison4",
+      "image": "https://img.pvme.io/images/CR06fbn.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Weapon_poison+++#(4)",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Enhanced excalibur",
+      "label": "excal",
+      "image": "https://img.pvme.io/images/nC5xTAR.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Enhanced_excalibur",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Grasping rune pouch (pink)",
+      "label": "graspingpouchpink",
+      "image": "https://img.pvme.io/images/cMrBUILe61.png",
+      "breakdownNotes": "Death | Earth | Law | Cosmic",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(pink)",
+      "selected": false,
+      "slot": 9
+    },
+    null,
+    {
+      "name": "Portable fairy ring",
+      "label": "portablefairyring(used)",
+      "image": "https://img.pvme.io/images/iwTl6xy.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Portable_fairy_ring#active",
+      "selected": false,
+      "slot": 13
+    },
+    null,
+    null,
+    null,
+    {
+      "name": "Ancient elven ritual shard",
+      "label": "elvenshard",
+      "image": "https://img.pvme.io/images/UURvGNW.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Ancient_elven_ritual_shard",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "Dwarven siege engine",
+      "label": "cannon",
+      "image": "https://img.pvme.io/images/GTwVqeC.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Dwarven_siege_engine",
+      "selected": false,
+      "slot": 0
+    },
+    {
+      "name": "XP Capacitor 5000 (Charging)",
+      "label": "xpcapacitor5000charging",
+      "image": "https://img.pvme.io/images/e0vL3ur.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/XP_Capacitor_5000#Charging",
+      "selected": false,
+      "slot": 0
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "name": "Spring cleaner 9001",
+      "label": "springcleaner",
+      "image": "https://img.pvme.io/images/pjHPdhj.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Spring_cleaner_9001",
+      "selected": false,
+      "slot": 13
+    },
+    {
+      "name": "Cannonballs",
+      "label": "cballs",
+      "image": "https://img.pvme.io/images/GrfjyE2.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cannonballs",
+      "selected": false,
+      "slot": 0
+    }
+  ],
+  "equipmentSlots": [
+    {
+      "name": "Cryptbloom helm",
+      "label": "cryptbloomhelm",
+      "image": "https://img.pvme.io/images/zqJhRU7E8N.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_helm",
+      "selected": false,
+      "slot": 1
+    },
+    {
+      "name": "Igneous Kal-Mej",
+      "label": "kalmej",
+      "image": "https://img.pvme.io/images/v4dRHBk.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Igneous_Kal-Mej",
+      "selected": false,
+      "slot": 12
+    },
+    {
+      "name": "Amulet of souls (or)",
+      "label": "souls",
+      "image": "https://img.pvme.io/images/ZCKGIBM.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Amulet_of_souls_(or)",
+      "selected": false,
+      "slot": 10
+    },
+    {
+      "name": "Roar of Awakening",
+      "label": "roarofawakening",
+      "image": "https://img.pvme.io/images/nCmqhfpcHo.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Roar_of_Awakening",
+      "selected": false,
+      "slot": 4
+    },
+    {
+      "name": "Cryptbloom top",
+      "label": "cryptbloomtop",
+      "image": "https://img.pvme.io/images/SQFVVkgKsw.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_top",
+      "selected": false,
+      "slot": 2
+    },
+    {
+      "name": "Seasinger makigai",
+      "label": "seasingerorb",
+      "image": "https://img.pvme.io/images/N9eTQqg.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Seasinger_makigai",
+      "selected": false,
+      "slot": 5
+    },
+    {
+      "name": "Superior seasinger's robe bottom",
+      "label": "supseasingerlegs",
+      "image": "https://img.pvme.io/images/uMH1Cg6.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Superior_seasinger's_robe_bottom",
+      "selected": false,
+      "slot": 3
+    },
+    {
+      "name": "Cinderbane gloves",
+      "label": "cinder",
+      "image": "https://img.pvme.io/images/LutTgCH.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cinderbane_gloves",
+      "selected": false,
+      "slot": 6
+    },
+    {
+      "name": "Cryptbloom boots",
+      "label": "cryptbloomboots",
+      "image": "https://img.pvme.io/images/cXlCjcohsJ.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Cryptbloom_boots",
+      "selected": false,
+      "slot": 7
+    },
+    {
+      "name": "Reaver's ring",
+      "label": "reaverring",
+      "image": "https://img.pvme.io/images/cnIOClx.png",
+      "breakdownNotes": "<br />",
+      "wikiLink": "https://runescape.wiki/w/Reaver's_ring",
+      "selected": false,
+      "slot": 11
+    },
+    {
+      "name": "Grasping rune pouch (blue)",
+      "label": "graspingpouchblue",
+      "image": "https://img.pvme.io/images/1JjM2xHyOj.png",
+      "breakdownNotes": "Chaos | Air | Water | Fire",
+      "wikiLink": "https://runescape.wiki/w/Grasping_rune_pouch_(blue)",
+      "selected": false,
+      "slot": 9
+    },
+    {
+      "name": "Penance aura",
+      "label": "penance",
+      "image": "https://img.pvme.io/images/dMPY1FJ.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Penance_aura",
+      "selected": false,
+      "slot": 8
+    },
+    {
+      "name": "Scripture of Wen",
+      "label": "scriptureofwen",
+      "image": "https://img.pvme.io/images/zd3mKfH.png",
+      "breakdownNotes": "",
+      "wikiLink": "https://runescape.wiki/w/Scripture_of_Wen",
+      "selected": false,
+      "slot": 13
+    }
+  ],
+  "relics": {
+    "primaryRelics": [
+      {
+        "label": "conservationofenergy",
+        "name": "Conservation of Energy",
+        "image": "https://img.pvme.io/images/Gfdc9u6.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      {
+        "label": "furyofthesmall",
+        "name": "Fury of the Small",
+        "image": "https://img.pvme.io/images/W87TO3O.png",
+        "breakdownNotes": "",
+        "energy": 0,
+        "description": ""
+      },
+      null
+    ],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [
+      {
+        "label": "legendpetscav",
+        "name": "Legendary Pet (Scavenge)",
+        "image": "https://img.pvme.io/images/KWIawjY.png",
+        "breakdownNotes": ""
+      }
+    ],
+    "alternativeFamiliars": []
+  }
+}
