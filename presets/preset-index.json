@@ -606,5 +606,9 @@
   {
     "presetId": "6a7a1c39-48b0-4f7c-9689-11c0a223f219",
     "presetName": "Minimal v2"
+  },
+  {
+    "presetId": "f493e237-2482-4e90-8626-2ab4ea69c4c7",
+    "presetName": "Small v2 test"
   }
 ]
