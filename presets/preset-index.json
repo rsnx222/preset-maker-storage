@@ -594,5 +594,9 @@
   {
     "presetId": "local-test-20676",
     "presetName": "Local dev create test"
+  },
+  {
+    "presetId": "legacy-save-3940",
+    "presetName": "Legacy save test"
   }
 ]
