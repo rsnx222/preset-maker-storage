@@ -598,5 +598,9 @@
   {
     "presetId": "legacy-save-3940",
     "presetName": "Legacy save test"
+  },
+  {
+    "presetId": "legacy-save-12345",
+    "presetName": "Should fail"
   }
 ]
