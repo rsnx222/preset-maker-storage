@@ -602,5 +602,9 @@
   {
     "presetId": "legacy-save-12345",
     "presetName": "Should fail"
+  },
+  {
+    "presetId": "6a7a1c39-48b0-4f7c-9689-11c0a223f219",
+    "presetName": "Minimal v2"
   }
 ]
