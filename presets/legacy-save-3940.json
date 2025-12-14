@@ -1,0 +1,22 @@
+{
+  "presetName": "Legacy save test",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "holyaggroverload"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}
