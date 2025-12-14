@@ -1,0 +1,28 @@
+{
+  "presetName": "Small v2 test",
+  "presetNotes": "",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    },
+    {
+      "id": "cryptbloomtop"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "holyaggroverload"
+    },
+    {
+      "id": "superrestoreflask"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}
