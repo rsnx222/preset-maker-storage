@@ -1,0 +1,22 @@
+{
+  "presetName": "Local dev create test",
+  "presetNotes": "testing uploadPreset",
+  "equipmentSlots": [
+    {
+      "id": "cryptbloomhelm"
+    }
+  ],
+  "inventorySlots": [
+    {
+      "id": "holyaggroverload"
+    }
+  ],
+  "relics": {
+    "primaryRelics": [],
+    "alternativeRelics": []
+  },
+  "familiars": {
+    "primaryFamiliars": [],
+    "alternativeFamiliars": []
+  }
+}
